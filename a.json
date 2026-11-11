@@ -1,0 +1,4998 @@
+{
+  "code": 0,
+  "data": {
+    "product_list": [
+      {
+        "product_data": {
+          "product_id": "3821721430576464119",
+          "promotion_id": "3821727198843372015",
+          "base_model": {
+            "product_info": {
+              "name": "2026女童凉鞋珍珠蕾丝小中大童新款公主厚底软底防滑女童珍珠凉鞋",
+              "main_img": {
+                "uri": "ecom-shop-material/jpeg_m_59fa026e5589cb94c0d196ce4307f79d_sx_568627_www1773-1773",
+                "url_list": [
+                  "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_59fa026e5589cb94c0d196ce4307f79d_sx_568627_www1773-1773"
+                ]
+              }
+            },
+            "promotion_info": {
+              "cos_info": {
+                "cos": {
+                  "cos_fee": {
+                    "origin": 233,
+                    "integer": "2",
+                    "decimal": "33",
+                    "suffix": ""
+                  },
+                  "cos_ratio": {
+                    "origin": 13,
+                    "integer": "13",
+                    "decimal": "",
+                    "suffix": "%"
+                  }
+                },
+                "cos_type": 3,
+                "tiered_cos_info": {
+
+                }
+              }
+            },
+            "marketing_info": {
+              "price_desc": {
+                "price": {
+                  "origin": 1790,
+                  "integer": "17",
+                  "decimal": "9",
+                  "suffix": ""
+                },
+                "price_text": "到手价"
+              }
+            },
+            "shop_info": {
+              "shop_id": 40514169,
+              "shop_name": "萌希尔鞋业",
+              "shop_logo": {
+                "url_list": [
+                  "https://p6-ecom-qualification-sign.ecombdimg.com/tos-cn-i-6vegkygxbk/1efe3a4c61404ee8bb81b07e03cb2162~tplv-6vegkygxbk-s:750.image?lk3s=c9156bde&x-expires=1812081722&x-signature=8cBNGdztoQO5%2B1%2BxWtuTcEmuEO8%3D"
+                ]
+              },
+              "shop_score_info": {
+                "has_data": true,
+                "shop_score": {
+                  "score": 79,
+                  "rating": "中",
+                  "percentage": 0,
+                  "rise_than_7d_ago": 0
+                }
+              }
+            },
+            "tag_info": {
+              "second_tags": [
+                {
+                  "type": "insurance_freight",
+                  "text": {
+                    "text": "运费险"
+                  },
+                  "border_color": "rgba(255, 112, 29, 0.34)",
+                  "tag_type": 1
+                },
+                {
+                  "type": "FreightFree",
+                  "text": {
+                    "text": "包邮"
+                  },
+                  "border_color": "rgba(255, 112, 29, 0.34)",
+                  "tag_type": 1
+                }
+              ],
+              "tag_codes": [
+                "insurance_freight",
+                "FreightFree"
+              ]
+            },
+            "extend_info": {
+              "is_in_cart": true
+            }
+          },
+          "custom_model": {
+            "selection_square_model": {
+              "is_adv_approve": false,
+              "buyin_home_page_reason": {
+                "content": "单笔赚¥2.3"
+              },
+              "hit_ranking_list": false
+            }
+          }
+        },
+        "sale_data": {
+          "sale": "10+",
+          "sale_amount": "200+",
+          "sale_types": [
+
+          ]
+        },
+        "video_data": {
+          "item_id": "",
+          "video_url": "",
+          "duration": 0,
+          "cover_url": "",
+          "publish_time": 0,
+          "video_name": ""
+        },
+        "live_data": {
+          "room_id": "",
+          "create_time": 0,
+          "room_text": ""
+        }
+      },
+      {
+        "product_data": {
+          "product_id": "3809207100538748998",
+          "promotion_id": "3810172740334387674",
+          "base_model": {
+            "product_info": {
+              "name": "女童凉鞋夏季2026新款儿童公主鞋大童女孩软底沙滩鞋防滑爆款宝宝",
+              "main_img": {
+                "uri": "ecom-shop-material/jpeg_m_6d71330adad8b55425431cc21813ac3a_sx_103839_www800-800",
+                "url_list": [
+                  "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_6d71330adad8b55425431cc21813ac3a_sx_103839_www800-800"
+                ]
+              }
+            },
+            "promotion_info": {
+              "cos_info": {
+                "cos": {
+                  "cos_fee": {
+                    "origin": 399,
+                    "integer": "3",
+                    "decimal": "99",
+                    "suffix": ""
+                  },
+                  "cos_ratio": {
+                    "origin": 10,
+                    "integer": "10",
+                    "decimal": "",
+                    "suffix": "%"
+                  }
+                },
+                "cos_type": 3,
+                "tiered_cos_info": {
+
+                }
+              }
+            },
+            "marketing_info": {
+              "price_desc": {
+                "price": {
+                  "origin": 3990,
+                  "integer": "39",
+                  "decimal": "9",
+                  "suffix": ""
+                },
+                "price_text": "到手价"
+              }
+            },
+            "shop_info": {
+              "shop_id": 126457180,
+              "shop_name": "礼承童鞋",
+              "shop_logo": {
+                "url_list": [
+                  "https://p3-ecom-qualification-sign.ecombdimg.com/tos-cn-i-6vegkygxbk/bf771f4130ae4c94b1993153770d6fe9~tplv-6vegkygxbk-s:750.image?lk3s=c9156bde&x-expires=1812081030&x-signature=Fuf1EYsk91o8xkaPxl0yGEHaxG8%3D"
+                ]
+              },
+              "shop_score_info": {
+                "has_data": true,
+                "shop_score": {
+                  "score": 90,
+                  "rating": "高",
+                  "percentage": 0,
+                  "rise_than_7d_ago": 0
+                }
+              }
+            },
+            "tag_info": {
+              "second_tags": [
+                {
+                  "type": "SalesInfos",
+                  "text": {
+                    "text": "券",
+                    "color": "#FF3B52"
+                  },
+                  "text_right": {
+                    "text": "减10",
+                    "color": "#FF3B52"
+                  },
+                  "border_color": "rgba(255, 51, 68, 0.25)",
+                  "tag_type": 2
+                },
+                {
+                  "type": "insurance_freight",
+                  "text": {
+                    "text": "运费险"
+                  },
+                  "border_color": "rgba(255, 112, 29, 0.34)",
+                  "tag_type": 1
+                }
+              ],
+              "tag_codes": [
+                "insurance_freight",
+                "SalesInfos"
+              ]
+            },
+            "extend_info": {
+              "is_in_cart": true
+            }
+          },
+          "custom_model": {
+            "selection_square_model": {
+              "is_adv_approve": false,
+              "buyin_home_page_reason": {
+                "content": "单笔赚¥4"
+              },
+              "hit_ranking_list": false
+            }
+          }
+        },
+        "sale_data": {
+          "sale": "0-10",
+          "sale_amount": "200+",
+          "sale_types": [
+
+          ]
+        },
+        "video_data": {
+          "item_id": "",
+          "video_url": "",
+          "duration": 0,
+          "cover_url": "",
+          "publish_time": 0,
+          "video_name": ""
+        },
+        "live_data": {
+          "room_id": "",
+          "create_time": 0,
+          "room_text": ""
+        }
+      },
+      {
+        "product_data": {
+          "product_id": "3684434984967471340",
+          "promotion_id": "3694417832004687048",
+          "base_model": {
+            "product_info": {
+              "name": "G.DUCK小黄鸭女童凉鞋2026夏季新款软底学生儿童洋气中大童沙滩鞋",
+              "main_img": {
+                "uri": "ecom-shop-material/yguuzMMc_m_455cbcb61def9b035c937bd1e2e2958d_sx_364587_www800-800",
+                "url_list": [
+                  "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/yguuzMMc_m_455cbcb61def9b035c937bd1e2e2958d_sx_364587_www800-800"
+                ]
+              }
+            },
+            "promotion_info": {
+              "cos_info": {
+                "cos": {
+                  "cos_fee": {
+                    "origin": 199,
+                    "integer": "1",
+                    "decimal": "99",
+                    "suffix": ""
+                  },
+                  "cos_ratio": {
+                    "origin": 5,
+                    "integer": "5",
+                    "decimal": "",
+                    "suffix": "%"
+                  }
+                },
+                "cos_type": 3,
+                "tiered_cos_info": {
+
+                }
+              }
+            },
+            "marketing_info": {
+              "price_desc": {
+                "price": {
+                  "origin": 3980,
+                  "integer": "39",
+                  "decimal": "8",
+                  "suffix": ""
+                },
+                "regular_price": {
+                  "origin": 4780,
+                  "integer": "47",
+                  "decimal": "8",
+                  "suffix": ""
+                },
+                "price_text": "到手价"
+              }
+            },
+            "shop_info": {
+              "shop_id": 172217210,
+              "shop_name": "G DUCK品质优选童鞋",
+              "shop_logo": {
+                "url_list": [
+                  "https://p6-ecom-qualification-sign.ecombdimg.com/tos-cn-i-6vegkygxbk/3eae808533d54c469107c72509b33d58~tplv-6vegkygxbk-s:750.image?lk3s=c9156bde&x-expires=1812081820&x-signature=L6%2B26H%2FQN%2Blu7gOb79vRCWvzZWk%3D"
+                ]
+              },
+              "shop_score_info": {
+                "has_data": true,
+                "shop_score": {
+                  "score": 90,
+                  "rating": "高",
+                  "percentage": 0,
+                  "rise_than_7d_ago": 0
+                }
+              }
+            },
+            "tag_info": {
+              "second_tags": [
+                {
+                  "type": "LowPrice",
+                  "text": {
+                    "text": "低价好卖",
+                    "color": "rgba(255,106,0,1)"
+                  },
+                  "border_color": "rgba(255,106,0,0.3)",
+                  "tag_type": 1
+                },
+                {
+                  "type": "insurance_freight",
+                  "text": {
+                    "text": "运费险"
+                  },
+                  "border_color": "rgba(255, 112, 29, 0.34)",
+                  "tag_type": 1
+                }
+              ],
+              "tag_codes": [
+                "insurance_freight",
+                "LowPrice"
+              ]
+            },
+            "extend_info": {
+              "is_in_cart": true
+            }
+          },
+          "custom_model": {
+            "selection_square_model": {
+              "is_adv_approve": false,
+              "buyin_home_page_reason": {
+                "content": "单笔赚¥2"
+              },
+              "hit_ranking_list": false
+            }
+          }
+        },
+        "sale_data": {
+          "sale": "0-10",
+          "sale_amount": "200+",
+          "sale_types": [
+
+          ]
+        },
+        "video_data": {
+          "item_id": "",
+          "video_url": "",
+          "duration": 0,
+          "cover_url": "",
+          "publish_time": 0,
+          "video_name": ""
+        },
+        "live_data": {
+          "room_id": "",
+          "create_time": 0,
+          "room_text": ""
+        }
+      },
+      {
+        "product_data": {
+          "product_id": "3737811142093963693",
+          "promotion_id": "3744859305715827006",
+          "base_model": {
+            "product_info": {
+              "name": "女童2026夏新款中大童网红韩版公主凉鞋儿童防滑休闲沙滩鞋",
+              "main_img": {
+                "uri": "ecom-shop-material/jpeg_m_5d2363a365d1e6728190d8914673aa2e_sx_376146_www800-800",
+                "url_list": [
+                  "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_5d2363a365d1e6728190d8914673aa2e_sx_376146_www800-800"
+                ]
+              }
+            },
+            "promotion_info": {
+              "cos_info": {
+                "cos": {
+                  "cos_fee": {
+                    "origin": 294,
+                    "integer": "2",
+                    "decimal": "94",
+                    "suffix": ""
+                  },
+                  "cos_ratio": {
+                    "origin": 8,
+                    "integer": "8",
+                    "decimal": "",
+                    "suffix": "%"
+                  }
+                },
+                "cos_type": 3,
+                "tiered_cos_info": {
+
+                }
+              }
+            },
+            "marketing_info": {
+              "price_desc": {
+                "price": {
+                  "origin": 3680,
+                  "integer": "36",
+                  "decimal": "8",
+                  "suffix": ""
+                },
+                "price_text": "到手价"
+              }
+            },
+            "shop_info": {
+              "shop_id": 136455248,
+              "shop_name": "乐天童鞋",
+              "shop_logo": {
+                "url_list": [
+                  "https://p6-ecom-qualification-sign.ecombdimg.com/tos-cn-i-6vegkygxbk/6443875e85f7497d87eee685a886f70f~tplv-6vegkygxbk-s:750.image?lk3s=c9156bde&x-expires=1812083379&x-signature=1m0keAtoPsN%2FugrFzo3SGghMIQA%3D"
+                ]
+              },
+              "shop_score_info": {
+                "has_data": true,
+                "shop_score": {
+                  "score": 87,
+                  "rating": "中",
+                  "percentage": 0,
+                  "rise_than_7d_ago": 0
+                }
+              }
+            },
+            "tag_info": {
+              "second_tags": [
+                {
+                  "type": "insurance_freight",
+                  "text": {
+                    "text": "运费险"
+                  },
+                  "border_color": "rgba(255, 112, 29, 0.34)",
+                  "tag_type": 1
+                }
+              ],
+              "tag_codes": [
+                "insurance_freight"
+              ]
+            },
+            "extend_info": {
+              "is_in_cart": true
+            }
+          },
+          "custom_model": {
+            "selection_square_model": {
+              "is_adv_approve": false,
+              "buyin_home_page_reason": {
+                "content": "单笔赚¥2.9"
+              },
+              "hit_ranking_list": false
+            }
+          }
+        },
+        "sale_data": {
+          "sale": "0-10",
+          "sale_amount": "200+",
+          "sale_types": [
+
+          ]
+        },
+        "video_data": {
+          "item_id": "",
+          "video_url": "",
+          "duration": 0,
+          "cover_url": "",
+          "publish_time": 0,
+          "video_name": ""
+        },
+        "live_data": {
+          "room_id": "",
+          "create_time": 0,
+          "room_text": ""
+        }
+      },
+      {
+        "product_data": {
+          "product_id": "3684055462279512560",
+          "promotion_id": "3694417342361649213",
+          "base_model": {
+            "product_info": {
+              "name": "小黄鸭女童鞋子儿童宝宝公主凉鞋2026夏季新款爆款大童软底沙滩鞋",
+              "main_img": {
+                "uri": "ecom-shop-material/yguuzMMc_m_4c133faa3bd26f17333261cfdc61b53a_sx_944673_www800-800",
+                "url_list": [
+                  "https://p9-aio.ecombdimg.com/obj/ecom-shop-material/yguuzMMc_m_4c133faa3bd26f17333261cfdc61b53a_sx_944673_www800-800"
+                ]
+              }
+            },
+            "promotion_info": {
+              "cos_info": {
+                "cos": {
+                  "cos_fee": {
+                    "origin": 199,
+                    "integer": "1",
+                    "decimal": "99",
+                    "suffix": ""
+                  },
+                  "cos_ratio": {
+                    "origin": 5,
+                    "integer": "5",
+                    "decimal": "",
+                    "suffix": "%"
+                  }
+                },
+                "cos_type": 3,
+                "tiered_cos_info": {
+
+                }
+              }
+            },
+            "marketing_info": {
+              "price_desc": {
+                "price": {
+                  "origin": 3980,
+                  "integer": "39",
+                  "decimal": "8",
+                  "suffix": ""
+                },
+                "regular_price": {
+                  "origin": 4980,
+                  "integer": "49",
+                  "decimal": "8",
+                  "suffix": ""
+                },
+                "price_text": "到手价"
+              }
+            },
+            "shop_info": {
+              "shop_id": 172217210,
+              "shop_name": "G DUCK品质优选童鞋",
+              "shop_logo": {
+                "url_list": [
+                  "https://p6-ecom-qualification-sign.ecombdimg.com/tos-cn-i-6vegkygxbk/3eae808533d54c469107c72509b33d58~tplv-6vegkygxbk-s:750.image?lk3s=c9156bde&x-expires=1812081820&x-signature=L6%2B26H%2FQN%2Blu7gOb79vRCWvzZWk%3D"
+                ]
+              },
+              "shop_score_info": {
+                "has_data": true,
+                "shop_score": {
+                  "score": 90,
+                  "rating": "高",
+                  "percentage": 0,
+                  "rise_than_7d_ago": 0
+                }
+              }
+            },
+            "tag_info": {
+              "second_tags": [
+                {
+                  "type": "insurance_freight",
+                  "text": {
+                    "text": "运费险"
+                  },
+                  "border_color": "rgba(255, 112, 29, 0.34)",
+                  "tag_type": 1
+                }
+              ],
+              "tag_codes": [
+                "insurance_freight"
+              ]
+            },
+            "extend_info": {
+              "is_in_cart": true
+            }
+          },
+          "custom_model": {
+            "selection_square_model": {
+              "is_adv_approve": false,
+              "buyin_home_page_reason": {
+                "content": "单笔赚¥2"
+              },
+              "hit_ranking_list": false
+            }
+          }
+        },
+        "sale_data": {
+          "sale": "0-10",
+          "sale_amount": "200+",
+          "sale_types": [
+
+          ]
+        },
+        "video_data": {
+          "item_id": "",
+          "video_url": "",
+          "duration": 0,
+          "cover_url": "",
+          "publish_time": 0,
+          "video_name": ""
+        },
+        "live_data": {
+          "room_id": "",
+          "create_time": 0,
+          "room_text": ""
+        }
+      },
+      {
+        "product_data": {
+          "product_id": "3758099158641279312",
+          "promotion_id": "3758284353495499177",
+          "base_model": {
+            "product_info": {
+              "name": "atongmu/阿童木儿童凉鞋宝宝夏季小学生沙滩鞋2025款软底露趾鞋子",
+              "main_img": {
+                "uri": "ecom-shop-material/jpeg_m_469b252d6063dfe9645126c5fda9e4f0_sx_123611_www750-750",
+                "url_list": [
+                  "https://p9-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_469b252d6063dfe9645126c5fda9e4f0_sx_123611_www750-750"
+                ]
+              }
+            },
+            "promotion_info": {
+              "cos_info": {
+                "cos": {
+                  "cos_fee": {
+                    "origin": 439,
+                    "integer": "4",
+                    "decimal": "39",
+                    "suffix": ""
+                  },
+                  "cos_ratio": {
+                    "origin": 11,
+                    "integer": "11",
+                    "decimal": "",
+                    "suffix": "%"
+                  }
+                },
+                "cos_type": 3,
+                "tiered_cos_info": {
+
+                }
+              }
+            },
+            "marketing_info": {
+              "price_desc": {
+                "price": {
+                  "origin": 3990,
+                  "integer": "39",
+                  "decimal": "9",
+                  "suffix": ""
+                },
+                "price_text": "到手价"
+              }
+            },
+            "shop_info": {
+              "shop_id": 114203522,
+              "shop_name": "阿童木瑞尚童鞋店",
+              "shop_logo": {
+                "url_list": [
+                  "https://p3-ecom-qualification-sign.ecombdimg.com/tos-cn-i-6vegkygxbk/b2cf9804d94e4a79ad66ebaad1346435~tplv-6vegkygxbk-s:750.image?lk3s=c9156bde&x-expires=1812082661&x-signature=W%2F75Flj0SS5gINwNDe5bMo1f%2Fco%3D"
+                ]
+              },
+              "shop_score_info": {
+                "has_data": true,
+                "shop_score": {
+                  "score": 80,
+                  "rating": "中",
+                  "percentage": 0,
+                  "rise_than_7d_ago": 0
+                }
+              }
+            },
+            "tag_info": {
+              "second_tags": [
+                {
+                  "type": "SalesInfos",
+                  "text": {
+                    "text": "券",
+                    "color": "#FF3B52"
+                  },
+                  "text_right": {
+                    "text": "减20",
+                    "color": "#FF3B52"
+                  },
+                  "border_color": "rgba(255, 51, 68, 0.25)",
+                  "tag_type": 2
+                },
+                {
+                  "type": "insurance_freight",
+                  "text": {
+                    "text": "运费险"
+                  },
+                  "border_color": "rgba(255, 112, 29, 0.34)",
+                  "tag_type": 1
+                }
+              ],
+              "tag_codes": [
+                "insurance_freight",
+                "SalesInfos"
+              ]
+            },
+            "extend_info": {
+              "is_in_cart": true
+            }
+          },
+          "custom_model": {
+            "selection_square_model": {
+              "is_adv_approve": false,
+              "buyin_home_page_reason": {
+                "content": "单笔赚¥4.4"
+              },
+              "hit_ranking_list": false
+            }
+          }
+        },
+        "sale_data": {
+          "sale": "0-10",
+          "sale_amount": "100+",
+          "sale_types": [
+
+          ]
+        },
+        "video_data": {
+          "item_id": "",
+          "video_url": "",
+          "duration": 0,
+          "cover_url": "",
+          "publish_time": 0,
+          "video_name": ""
+        },
+        "live_data": {
+          "room_id": "",
+          "create_time": 0,
+          "room_text": ""
+        }
+      },
+      {
+        "product_data": {
+          "product_id": "3813518663630323918",
+          "promotion_id": "3817757811501302022",
+          "base_model": {
+            "product_info": {
+              "name": "女童凉鞋洋气珍珠刺绣女孩公主鞋2026夏季新款软底百搭儿童沙滩鞋",
+              "main_img": {
+                "uri": "ecom-shop-material/jpeg_m_f748b0fca73cfdac8a6cbd9a3c6f363a_sx_274431_www800-800",
+                "url_list": [
+                  "https://p9-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_f748b0fca73cfdac8a6cbd9a3c6f363a_sx_274431_www800-800"
+                ]
+              }
+            },
+            "promotion_info": {
+              "cos_info": {
+                "cos": {
+                  "cos_fee": {
+                    "origin": 358,
+                    "integer": "3",
+                    "decimal": "58",
+                    "suffix": ""
+                  },
+                  "cos_ratio": {
+                    "origin": 9,
+                    "integer": "9",
+                    "decimal": "",
+                    "suffix": "%"
+                  }
+                },
+                "cos_type": 3,
+                "tiered_cos_info": {
+
+                }
+              }
+            },
+            "marketing_info": {
+              "price_desc": {
+                "price": {
+                  "origin": 3980,
+                  "integer": "39",
+                  "decimal": "8",
+                  "suffix": ""
+                },
+                "price_text": "到手价"
+              }
+            },
+            "shop_info": {
+              "shop_id": 136455248,
+              "shop_name": "乐天童鞋",
+              "shop_logo": {
+                "url_list": [
+                  "https://p6-ecom-qualification-sign.ecombdimg.com/tos-cn-i-6vegkygxbk/6443875e85f7497d87eee685a886f70f~tplv-6vegkygxbk-s:750.image?lk3s=c9156bde&x-expires=1812083379&x-signature=1m0keAtoPsN%2FugrFzo3SGghMIQA%3D"
+                ]
+              },
+              "shop_score_info": {
+                "has_data": true,
+                "shop_score": {
+                  "score": 87,
+                  "rating": "中",
+                  "percentage": 0,
+                  "rise_than_7d_ago": 0
+                }
+              }
+            },
+            "tag_info": {
+              "second_tags": [
+                {
+                  "type": "insurance_freight",
+                  "text": {
+                    "text": "运费险"
+                  },
+                  "border_color": "rgba(255, 112, 29, 0.34)",
+                  "tag_type": 1
+                }
+              ],
+              "tag_codes": [
+                "insurance_freight"
+              ]
+            },
+            "extend_info": {
+              "is_in_cart": true
+            }
+          },
+          "custom_model": {
+            "selection_square_model": {
+              "is_adv_approve": false,
+              "buyin_home_page_reason": {
+                "content": "单笔赚¥3.6"
+              },
+              "hit_ranking_list": false
+            }
+          }
+        },
+        "sale_data": {
+          "sale": "0-10",
+          "sale_amount": "100+",
+          "sale_types": [
+
+          ]
+        },
+        "video_data": {
+          "item_id": "",
+          "video_url": "",
+          "duration": 0,
+          "cover_url": "",
+          "publish_time": 0,
+          "video_name": ""
+        },
+        "live_data": {
+          "room_id": "",
+          "create_time": 0,
+          "room_text": ""
+        }
+      },
+      {
+        "product_data": {
+          "product_id": "3743157375557828984",
+          "promotion_id": "3790694249826222399",
+          "base_model": {
+            "product_info": {
+              "name": "阿童木女童凉鞋夏季2026新款时尚儿童软底公主沙滩凉拖鞋女孩大童",
+              "main_img": {
+                "uri": "ecom-shop-material/png_m_db2a17e928075deca953fed289d003b8_sx_1313755_www800-800",
+                "url_list": [
+                  "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/png_m_db2a17e928075deca953fed289d003b8_sx_1313755_www800-800"
+                ]
+              }
+            },
+            "promotion_info": {
+              "cos_info": {
+                "cos": {
+                  "cos_fee": {
+                    "origin": 315,
+                    "integer": "3",
+                    "decimal": "15",
+                    "suffix": ""
+                  },
+                  "cos_ratio": {
+                    "origin": 7,
+                    "integer": "7",
+                    "decimal": "",
+                    "suffix": "%"
+                  }
+                },
+                "cos_type": 3,
+                "tiered_cos_info": {
+
+                }
+              }
+            },
+            "marketing_info": {
+              "price_desc": {
+                "price": {
+                  "origin": 4500,
+                  "integer": "45",
+                  "decimal": "",
+                  "suffix": ""
+                },
+                "price_text": "到手价"
+              }
+            },
+            "shop_info": {
+              "shop_id": 195454294,
+              "shop_name": "阿童木运动旗舰店",
+              "shop_logo": {
+                "url_list": [
+                  "https://p6-ecom-qualification-sign.ecombdimg.com/tos-cn-i-6vegkygxbk/50bba90286814667b9f1f5f8fed63dff~tplv-6vegkygxbk-s:750.image?lk3s=c9156bde&x-expires=1812081014&x-signature=exRmtO%2FkYo%2F5zceuOkj3RRfpplI%3D"
+                ]
+              },
+              "shop_score_info": {
+                "has_data": true,
+                "shop_score": {
+                  "score": 85,
+                  "rating": "中",
+                  "percentage": 0,
+                  "rise_than_7d_ago": 0
+                }
+              }
+            },
+            "tag_info": {
+              "second_tags": [
+                {
+                  "type": "insurance_freight",
+                  "text": {
+                    "text": "运费险"
+                  },
+                  "border_color": "rgba(255, 112, 29, 0.34)",
+                  "tag_type": 1
+                }
+              ],
+              "tag_codes": [
+                "insurance_freight"
+              ]
+            },
+            "extend_info": {
+              "is_in_cart": true
+            }
+          },
+          "custom_model": {
+            "selection_square_model": {
+              "is_adv_approve": false,
+              "buyin_home_page_reason": {
+                "content": "单笔赚¥3.1"
+              },
+              "hit_ranking_list": false
+            }
+          }
+        },
+        "sale_data": {
+          "sale": "0-10",
+          "sale_amount": "200+",
+          "sale_types": [
+
+          ]
+        },
+        "video_data": {
+          "item_id": "",
+          "video_url": "",
+          "duration": 0,
+          "cover_url": "",
+          "publish_time": 0,
+          "video_name": ""
+        },
+        "live_data": {
+          "room_id": "",
+          "create_time": 0,
+          "room_text": ""
+        }
+      },
+      {
+        "product_data": {
+          "product_id": "3752640416386777184",
+          "promotion_id": "3752641301233926629",
+          "base_model": {
+            "product_info": {
+              "name": "阿童木女童凉鞋2026夏季儿童珍珠蝴蝶结凉拖外穿防滑女孩沙滩鞋子",
+              "main_img": {
+                "uri": "ecom-shop-material/jpeg_m_3206f68c5e1d5e83839edccd0ce3139d_sx_641530_www800-800",
+                "url_list": [
+                  "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_3206f68c5e1d5e83839edccd0ce3139d_sx_641530_www800-800"
+                ]
+              }
+            },
+            "promotion_info": {
+              "cos_info": {
+                "cos": {
+                  "cos_fee": {
+                    "origin": 299,
+                    "integer": "2",
+                    "decimal": "99",
+                    "suffix": ""
+                  },
+                  "cos_ratio": {
+                    "origin": 6,
+                    "integer": "6",
+                    "decimal": "",
+                    "suffix": "%"
+                  }
+                },
+                "cos_type": 3,
+                "tiered_cos_info": {
+
+                }
+              }
+            },
+            "marketing_info": {
+              "price_desc": {
+                "price": {
+                  "origin": 4990,
+                  "integer": "49",
+                  "decimal": "9",
+                  "suffix": ""
+                },
+                "price_text": "到手价"
+              }
+            },
+            "shop_info": {
+              "shop_id": 188014467,
+              "shop_name": "阿童木鞋品旗舰店",
+              "shop_logo": {
+                "url_list": [
+                  "https://p3-ecom-qualification-sign.ecombdimg.com/tos-cn-i-6vegkygxbk/c40a40916a47423184fb5949d2c0daa6~tplv-6vegkygxbk-s:750.image?lk3s=c9156bde&x-expires=1812080825&x-signature=RBD5BNq6mfKf%2F0GTcGaveMEJyqk%3D"
+                ]
+              },
+              "shop_score_info": {
+                "has_data": true,
+                "shop_score": {
+                  "score": 85,
+                  "rating": "中",
+                  "percentage": 0,
+                  "rise_than_7d_ago": 0
+                }
+              }
+            },
+            "tag_info": {
+              "second_tags": [
+                {
+                  "type": "insurance_freight",
+                  "text": {
+                    "text": "运费险"
+                  },
+                  "border_color": "rgba(255, 112, 29, 0.34)",
+                  "tag_type": 1
+                }
+              ],
+              "tag_codes": [
+                "insurance_freight"
+              ]
+            },
+            "extend_info": {
+              "is_in_cart": true
+            }
+          },
+          "custom_model": {
+            "selection_square_model": {
+              "is_adv_approve": false,
+              "buyin_home_page_reason": {
+                "content": "单笔赚¥3"
+              },
+              "hit_ranking_list": false
+            }
+          }
+        },
+        "sale_data": {
+          "sale": "0-10",
+          "sale_amount": "100+",
+          "sale_types": [
+
+          ]
+        },
+        "video_data": {
+          "item_id": "",
+          "video_url": "",
+          "duration": 0,
+          "cover_url": "",
+          "publish_time": 0,
+          "video_name": ""
+        },
+        "live_data": {
+          "room_id": "",
+          "create_time": 0,
+          "room_text": ""
+        }
+      },
+      {
+        "product_data": {
+          "product_id": "3812603335173865623",
+          "promotion_id": "3812939966095425858",
+          "base_model": {
+            "product_info": {
+              "name": "女童凉鞋软底2026新款儿童罗马鞋夏季女宝公主银色夏鞋中大童凉鞋",
+              "main_img": {
+                "uri": "ecom-shop-material/jpeg_m_b97d35ae19c7ae9369a826e54c81fa1e_sx_550714_www800-800",
+                "url_list": [
+                  "https://p9-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_b97d35ae19c7ae9369a826e54c81fa1e_sx_550714_www800-800"
+                ]
+              }
+            },
+            "promotion_info": {
+              "cos_info": {
+                "cos": {
+                  "cos_fee": {
+                    "origin": 268,
+                    "integer": "2",
+                    "decimal": "68",
+                    "suffix": ""
+                  },
+                  "cos_ratio": {
+                    "origin": 9,
+                    "integer": "9",
+                    "decimal": "",
+                    "suffix": "%"
+                  }
+                },
+                "cos_type": 3,
+                "tiered_cos_info": {
+
+                }
+              }
+            },
+            "marketing_info": {
+              "price_desc": {
+                "price": {
+                  "origin": 2980,
+                  "integer": "29",
+                  "decimal": "8",
+                  "suffix": ""
+                },
+                "price_text": "到手价"
+              }
+            },
+            "shop_info": {
+              "shop_id": 136455248,
+              "shop_name": "乐天童鞋",
+              "shop_logo": {
+                "url_list": [
+                  "https://p6-ecom-qualification-sign.ecombdimg.com/tos-cn-i-6vegkygxbk/6443875e85f7497d87eee685a886f70f~tplv-6vegkygxbk-s:750.image?lk3s=c9156bde&x-expires=1812083379&x-signature=1m0keAtoPsN%2FugrFzo3SGghMIQA%3D"
+                ]
+              },
+              "shop_score_info": {
+                "has_data": true,
+                "shop_score": {
+                  "score": 87,
+                  "rating": "中",
+                  "percentage": 0,
+                  "rise_than_7d_ago": 0
+                }
+              }
+            },
+            "tag_info": {
+              "second_tags": [
+                {
+                  "type": "insurance_freight",
+                  "text": {
+                    "text": "运费险"
+                  },
+                  "border_color": "rgba(255, 112, 29, 0.34)",
+                  "tag_type": 1
+                }
+              ],
+              "tag_codes": [
+                "insurance_freight"
+              ]
+            },
+            "extend_info": {
+              "is_in_cart": true
+            }
+          },
+          "custom_model": {
+            "selection_square_model": {
+              "is_adv_approve": false,
+              "buyin_home_page_reason": {
+                "content": "单笔赚¥2.7"
+              },
+              "hit_ranking_list": false
+            }
+          }
+        },
+        "sale_data": {
+          "sale": "0-10",
+          "sale_amount": "100+",
+          "sale_types": [
+
+          ]
+        },
+        "video_data": {
+          "item_id": "",
+          "video_url": "",
+          "duration": 0,
+          "cover_url": "",
+          "publish_time": 0,
+          "video_name": ""
+        },
+        "live_data": {
+          "room_id": "",
+          "create_time": 0,
+          "room_text": ""
+        }
+      },
+      {
+        "product_data": {
+          "product_id": "3751519331138273507",
+          "promotion_id": "3756517754098810940",
+          "base_model": {
+            "product_info": {
+              "name": "女童凉鞋2025夏季新款中小童公主鞋时尚潮版防滑软底女孩沙滩凉鞋",
+              "main_img": {
+                "uri": "ecom-shop-material/jpeg_m_6d713c59ecddde9d1726905fd37b1095_sx_249761_www800-800",
+                "url_list": [
+                  "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_6d713c59ecddde9d1726905fd37b1095_sx_249761_www800-800"
+                ]
+              }
+            },
+            "promotion_info": {
+              "cos_info": {
+                "cos": {
+                  "cos_fee": {
+                    "origin": 134,
+                    "integer": "1",
+                    "decimal": "34",
+                    "suffix": ""
+                  },
+                  "cos_ratio": {
+                    "origin": 15,
+                    "integer": "15",
+                    "decimal": "",
+                    "suffix": "%"
+                  }
+                },
+                "cos_type": 3,
+                "tiered_cos_info": {
+
+                }
+              }
+            },
+            "marketing_info": {
+              "price_desc": {
+                "price": {
+                  "origin": 890,
+                  "integer": "8",
+                  "decimal": "9",
+                  "suffix": ""
+                },
+                "price_text": "到手价"
+              }
+            },
+            "shop_info": {
+              "shop_id": 93536484,
+              "shop_name": "星乐贝童鞋",
+              "shop_logo": {
+                "url_list": [
+                  "https://p3-ecom-qualification-sign.ecombdimg.com/tos-cn-i-6vegkygxbk/437a16a9faa140d1b8041422fb27dd65~tplv-6vegkygxbk-s:750.image?lk3s=c9156bde&x-expires=1812083033&x-signature=Lq6SOzhV93Rzu8Yfn1SpCDkG%2F4o%3D"
+                ]
+              },
+              "shop_score_info": {
+                "has_data": true,
+                "shop_score": {
+                  "score": 80,
+                  "rating": "中",
+                  "percentage": 0,
+                  "rise_than_7d_ago": 0
+                }
+              }
+            },
+            "tag_info": {
+              "second_tags": [
+                {
+                  "type": "SalesInfos",
+                  "text": {
+                    "text": "券",
+                    "color": "#FF3B52"
+                  },
+                  "text_right": {
+                    "text": "减5",
+                    "color": "#FF3B52"
+                  },
+                  "border_color": "rgba(255, 51, 68, 0.25)",
+                  "tag_type": 2
+                }
+              ],
+              "tag_codes": [
+                "SalesInfos"
+              ]
+            },
+            "extend_info": {
+              "is_in_cart": false
+            }
+          },
+          "custom_model": {
+            "selection_square_model": {
+              "is_adv_approve": false,
+              "buyin_home_page_reason": {
+                "content": "单笔赚¥1.3"
+              },
+              "hit_ranking_list": false
+            }
+          }
+        },
+        "sale_data": {
+          "sale": "0-10",
+          "sale_amount": "20+",
+          "sale_types": [
+
+          ]
+        },
+        "video_data": {
+          "item_id": "",
+          "video_url": "",
+          "duration": 0,
+          "cover_url": "",
+          "publish_time": 0,
+          "video_name": ""
+        },
+        "live_data": {
+          "room_id": "",
+          "create_time": 0,
+          "room_text": ""
+        }
+      },
+      {
+        "product_data": {
+          "product_id": "3816067576371478621",
+          "promotion_id": "3816069236393115907",
+          "base_model": {
+            "product_info": {
+              "name": "女童凉鞋夏季2026新款儿童公主鞋小女孩水晶时尚夏款软底女宝宝鞋",
+              "main_img": {
+                "uri": "ecom-shop-material/jpeg_m_c8f1c7281b327abbf081e7432b484bf9_sx_761957_www900-900",
+                "url_list": [
+                  "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_c8f1c7281b327abbf081e7432b484bf9_sx_761957_www900-900"
+                ]
+              }
+            },
+            "promotion_info": {
+              "cos_info": {
+                "cos": {
+                  "cos_fee": {
+                    "origin": 279,
+                    "integer": "2",
+                    "decimal": "79",
+                    "suffix": ""
+                  },
+                  "cos_ratio": {
+                    "origin": 7,
+                    "integer": "7",
+                    "decimal": "",
+                    "suffix": "%"
+                  }
+                },
+                "cos_type": 3,
+                "tiered_cos_info": {
+
+                }
+              }
+            },
+            "marketing_info": {
+              "price_desc": {
+                "price": {
+                  "origin": 3980,
+                  "integer": "39",
+                  "decimal": "8",
+                  "suffix": ""
+                },
+                "price_text": "到手价"
+              }
+            },
+            "shop_info": {
+              "shop_id": 69771677,
+              "shop_name": "巴小豆童鞋",
+              "shop_logo": {
+                "url_list": [
+                  "https://p6-ecom-qualification-sign.ecombdimg.com/tos-cn-i-6vegkygxbk/19a5f855324f41549dd36a25715e5740~tplv-6vegkygxbk-s:750.image?lk3s=c9156bde&x-expires=1812083070&x-signature=khi7mwuJE4h7XC4NHrWYgr9b7RA%3D"
+                ]
+              },
+              "shop_score_info": {
+                "has_data": true,
+                "shop_score": {
+                  "score": 92,
+                  "rating": "高",
+                  "percentage": 0,
+                  "rise_than_7d_ago": 0
+                }
+              }
+            },
+            "tag_info": {
+              "second_tags": [
+                {
+                  "type": "insurance_freight",
+                  "text": {
+                    "text": "运费险"
+                  },
+                  "border_color": "rgba(255, 112, 29, 0.34)",
+                  "tag_type": 1
+                }
+              ],
+              "tag_codes": [
+                "insurance_freight"
+              ]
+            },
+            "extend_info": {
+              "is_in_cart": true
+            }
+          },
+          "custom_model": {
+            "selection_square_model": {
+              "is_adv_approve": false,
+              "buyin_home_page_reason": {
+                "content": "单笔赚¥2.8"
+              },
+              "hit_ranking_list": false
+            }
+          }
+        },
+        "sale_data": {
+          "sale": "0-10",
+          "sale_amount": "60+",
+          "sale_types": [
+
+          ]
+        },
+        "video_data": {
+          "item_id": "",
+          "video_url": "",
+          "duration": 0,
+          "cover_url": "",
+          "publish_time": 0,
+          "video_name": ""
+        },
+        "live_data": {
+          "room_id": "",
+          "create_time": 0,
+          "room_text": ""
+        }
+      },
+      {
+        "product_data": {
+          "product_id": "3811291763830816865",
+          "promotion_id": "3811293881232916637",
+          "base_model": {
+            "product_info": {
+              "name": "小黄鸭女童凉鞋闪亮公主鞋2026新款夏季儿童水晶鞋女宝包头软底鞋",
+              "main_img": {
+                "uri": "ecom-shop-material/jpeg_m_1895d4a5c9fce7cb3fdbdd068b97d12f_sx_456668_www800-800",
+                "url_list": [
+                  "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_1895d4a5c9fce7cb3fdbdd068b97d12f_sx_456668_www800-800"
+                ]
+              }
+            },
+            "promotion_info": {
+              "cos_info": {
+                "cos": {
+                  "cos_fee": {
+                    "origin": 239,
+                    "integer": "2",
+                    "decimal": "39",
+                    "suffix": ""
+                  },
+                  "cos_ratio": {
+                    "origin": 6,
+                    "integer": "6",
+                    "decimal": "",
+                    "suffix": "%"
+                  }
+                },
+                "cos_type": 3,
+                "tiered_cos_info": {
+
+                }
+              }
+            },
+            "marketing_info": {
+              "price_desc": {
+                "price": {
+                  "origin": 3990,
+                  "integer": "39",
+                  "decimal": "9",
+                  "suffix": ""
+                },
+                "price_text": "到手价"
+              }
+            },
+            "shop_info": {
+              "shop_id": 161770046,
+              "shop_name": "HALDUCK美熙童鞋",
+              "shop_logo": {
+                "url_list": [
+                  "https://p6-ecom-qualification-sign.ecombdimg.com/tos-cn-i-6vegkygxbk/42dd7f9314d341858d7c1455832eae43~tplv-6vegkygxbk-s:750.image?lk3s=c9156bde&x-expires=1812083497&x-signature=KMXbB86%2BM9i%2BSErzl63U3%2BQOhj8%3D"
+                ]
+              },
+              "shop_score_info": {
+                "has_data": true,
+                "shop_score": {
+                  "score": 76,
+                  "rating": "中",
+                  "percentage": 0,
+                  "rise_than_7d_ago": 0
+                }
+              }
+            },
+            "tag_info": {
+              "second_tags": [
+                {
+                  "type": "insurance_freight",
+                  "text": {
+                    "text": "运费险"
+                  },
+                  "border_color": "rgba(255, 112, 29, 0.34)",
+                  "tag_type": 1
+                }
+              ],
+              "tag_codes": [
+                "insurance_freight"
+              ]
+            },
+            "extend_info": {
+              "is_in_cart": true
+            }
+          },
+          "custom_model": {
+            "selection_square_model": {
+              "is_adv_approve": false,
+              "buyin_home_page_reason": {
+                "content": "单笔赚¥2.4"
+              },
+              "hit_ranking_list": false
+            }
+          }
+        },
+        "sale_data": {
+          "sale": "0-10",
+          "sale_amount": "60+",
+          "sale_types": [
+
+          ]
+        },
+        "video_data": {
+          "item_id": "",
+          "video_url": "",
+          "duration": 0,
+          "cover_url": "",
+          "publish_time": 0,
+          "video_name": ""
+        },
+        "live_data": {
+          "room_id": "",
+          "create_time": 0,
+          "room_text": ""
+        }
+      },
+      {
+        "product_data": {
+          "product_id": "3811444295509082426",
+          "promotion_id": "3811446159457779986",
+          "base_model": {
+            "product_info": {
+              "name": "2026新款夏季女童凉鞋小中大童时尚休闲公主厚底软底防滑珍珠凉鞋",
+              "main_img": {
+                "uri": "ecom-shop-material/jpeg_m_56738e547932df016af01087031a16ee_sx_662432_www1024-1024",
+                "url_list": [
+                  "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_56738e547932df016af01087031a16ee_sx_662432_www1024-1024"
+                ]
+              }
+            },
+            "promotion_info": {
+              "cos_info": {
+                "cos": {
+                  "cos_fee": {
+                    "origin": 259,
+                    "integer": "2",
+                    "decimal": "59",
+                    "suffix": ""
+                  },
+                  "cos_ratio": {
+                    "origin": 13,
+                    "integer": "13",
+                    "decimal": "",
+                    "suffix": "%"
+                  }
+                },
+                "cos_type": 3,
+                "tiered_cos_info": {
+
+                }
+              }
+            },
+            "marketing_info": {
+              "price_desc": {
+                "price": {
+                  "origin": 1990,
+                  "integer": "19",
+                  "decimal": "9",
+                  "suffix": ""
+                },
+                "price_text": "到手价"
+              }
+            },
+            "shop_info": {
+              "shop_id": 64541609,
+              "shop_name": "沛沛童鞋",
+              "shop_logo": {
+                "url_list": [
+                  "https://p6-ecom-qualification-sign.ecombdimg.com/tos-cn-i-6vegkygxbk/bdd4d619679d4d1b8054e2506eab6355~tplv-6vegkygxbk-s:750.image?lk3s=c9156bde&x-expires=1812082029&x-signature=sESWykrkndZNn34cuav9U17aVSw%3D"
+                ]
+              },
+              "shop_score_info": {
+                "has_data": true,
+                "shop_score": {
+                  "score": 83,
+                  "rating": "中",
+                  "percentage": 0,
+                  "rise_than_7d_ago": 0
+                }
+              }
+            },
+            "tag_info": {
+              "second_tags": [
+                {
+                  "type": "insurance_freight",
+                  "text": {
+                    "text": "运费险"
+                  },
+                  "border_color": "rgba(255, 112, 29, 0.34)",
+                  "tag_type": 1
+                },
+                {
+                  "type": "FreightFree",
+                  "text": {
+                    "text": "包邮"
+                  },
+                  "border_color": "rgba(255, 112, 29, 0.34)",
+                  "tag_type": 1
+                }
+              ],
+              "tag_codes": [
+                "insurance_freight",
+                "FreightFree"
+              ]
+            },
+            "extend_info": {
+              "is_in_cart": true
+            }
+          },
+          "custom_model": {
+            "selection_square_model": {
+              "is_adv_approve": false,
+              "buyin_home_page_reason": {
+                "content": "单笔赚¥2.6"
+              },
+              "hit_ranking_list": false
+            }
+          }
+        },
+        "sale_data": {
+          "sale": "0-10",
+          "sale_amount": "40+",
+          "sale_types": [
+
+          ]
+        },
+        "video_data": {
+          "item_id": "",
+          "video_url": "",
+          "duration": 0,
+          "cover_url": "",
+          "publish_time": 0,
+          "video_name": ""
+        },
+        "live_data": {
+          "room_id": "",
+          "create_time": 0,
+          "room_text": ""
+        }
+      },
+      {
+        "product_data": {
+          "product_id": "3813887912832008548",
+          "promotion_id": "3817757811501302024",
+          "base_model": {
+            "product_info": {
+              "name": "女童鞋子儿童公主凉鞋2026新款夏季夏款女孩宝宝软底罗马女宝洋气",
+              "main_img": {
+                "uri": "ecom-shop-material/jpeg_m_59f4f80a41a497c09188e4d094dcdc20_sx_246910_www800-800",
+                "url_list": [
+                  "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_59f4f80a41a497c09188e4d094dcdc20_sx_246910_www800-800"
+                ]
+              }
+            },
+            "promotion_info": {
+              "cos_info": {
+                "cos": {
+                  "cos_fee": {
+                    "origin": 358,
+                    "integer": "3",
+                    "decimal": "58",
+                    "suffix": ""
+                  },
+                  "cos_ratio": {
+                    "origin": 9,
+                    "integer": "9",
+                    "decimal": "",
+                    "suffix": "%"
+                  }
+                },
+                "cos_type": 3,
+                "tiered_cos_info": {
+
+                }
+              }
+            },
+            "marketing_info": {
+              "price_desc": {
+                "price": {
+                  "origin": 3980,
+                  "integer": "39",
+                  "decimal": "8",
+                  "suffix": ""
+                },
+                "price_text": "到手价"
+              }
+            },
+            "shop_info": {
+              "shop_id": 136455248,
+              "shop_name": "乐天童鞋",
+              "shop_logo": {
+                "url_list": [
+                  "https://p6-ecom-qualification-sign.ecombdimg.com/tos-cn-i-6vegkygxbk/6443875e85f7497d87eee685a886f70f~tplv-6vegkygxbk-s:750.image?lk3s=c9156bde&x-expires=1812083379&x-signature=1m0keAtoPsN%2FugrFzo3SGghMIQA%3D"
+                ]
+              },
+              "shop_score_info": {
+                "has_data": true,
+                "shop_score": {
+                  "score": 87,
+                  "rating": "中",
+                  "percentage": 0,
+                  "rise_than_7d_ago": 0
+                }
+              }
+            },
+            "tag_info": {
+              "second_tags": [
+                {
+                  "type": "insurance_freight",
+                  "text": {
+                    "text": "运费险"
+                  },
+                  "border_color": "rgba(255, 112, 29, 0.34)",
+                  "tag_type": 1
+                }
+              ],
+              "tag_codes": [
+                "insurance_freight"
+              ]
+            },
+            "extend_info": {
+              "is_in_cart": true
+            }
+          },
+          "custom_model": {
+            "selection_square_model": {
+              "is_adv_approve": false,
+              "buyin_home_page_reason": {
+                "content": "单笔赚¥3.6"
+              },
+              "hit_ranking_list": false
+            }
+          }
+        },
+        "sale_data": {
+          "sale": "0-10",
+          "sale_amount": "60+",
+          "sale_types": [
+
+          ]
+        },
+        "video_data": {
+          "item_id": "",
+          "video_url": "",
+          "duration": 0,
+          "cover_url": "",
+          "publish_time": 0,
+          "video_name": ""
+        },
+        "live_data": {
+          "room_id": "",
+          "create_time": 0,
+          "room_text": ""
+        }
+      },
+      {
+        "product_data": {
+          "product_id": "3815728877490274437",
+          "promotion_id": "3815731471633743981",
+          "base_model": {
+            "product_info": {
+              "name": "2026夏季新款女童凉鞋时尚休闲公主风厚底软底防滑钻石蝴蝶凉鞋",
+              "main_img": {
+                "uri": "ecom-shop-material/jpeg_m_fa98baeaf12a4bbca5f19e372ab9305f_sx_202360_www1063-1063",
+                "url_list": [
+                  "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_fa98baeaf12a4bbca5f19e372ab9305f_sx_202360_www1063-1063"
+                ]
+              }
+            },
+            "promotion_info": {
+              "cos_info": {
+                "cos": {
+                  "cos_fee": {
+                    "origin": 285,
+                    "integer": "2",
+                    "decimal": "85",
+                    "suffix": ""
+                  },
+                  "cos_ratio": {
+                    "origin": 13,
+                    "integer": "13",
+                    "decimal": "",
+                    "suffix": "%"
+                  }
+                },
+                "cos_ratio_text": "双佣金",
+                "cos_type": 3,
+                "tiered_cos_info": {
+
+                },
+                "ad_cos": {
+                  "cos_fee": {
+                    "origin": 110,
+                    "integer": "1",
+                    "decimal": "1",
+                    "suffix": ""
+                  },
+                  "cos_ratio": {
+                    "origin": 5,
+                    "integer": "5",
+                    "decimal": "",
+                    "suffix": "%"
+                  }
+                },
+                "ad_cos_effective_time": 48,
+                "ad_cos_recommend_effective_time": 48
+              }
+            },
+            "marketing_info": {
+              "price_desc": {
+                "price": {
+                  "origin": 2190,
+                  "integer": "21",
+                  "decimal": "9",
+                  "suffix": ""
+                },
+                "price_text": "到手价"
+              }
+            },
+            "shop_info": {
+              "shop_id": 40514169,
+              "shop_name": "萌希尔鞋业",
+              "shop_logo": {
+                "url_list": [
+                  "https://p6-ecom-qualification-sign.ecombdimg.com/tos-cn-i-6vegkygxbk/1efe3a4c61404ee8bb81b07e03cb2162~tplv-6vegkygxbk-s:750.image?lk3s=c9156bde&x-expires=1812081722&x-signature=8cBNGdztoQO5%2B1%2BxWtuTcEmuEO8%3D"
+                ]
+              },
+              "shop_score_info": {
+                "has_data": true,
+                "shop_score": {
+                  "score": 79,
+                  "rating": "中",
+                  "percentage": 0,
+                  "rise_than_7d_ago": 0
+                }
+              }
+            },
+            "tag_info": {
+              "second_tags": [
+                {
+                  "type": "ad_double_cos",
+                  "text": {
+                    "text": "商家投千川"
+                  },
+                  "border_color": "rgba(255, 112, 29, 0.34)",
+                  "tag_type": 1
+                },
+                {
+                  "type": "insurance_freight",
+                  "text": {
+                    "text": "运费险"
+                  },
+                  "border_color": "rgba(255, 112, 29, 0.34)",
+                  "tag_type": 1
+                },
+                {
+                  "type": "FreightFree",
+                  "text": {
+                    "text": "包邮"
+                  },
+                  "border_color": "rgba(255, 112, 29, 0.34)",
+                  "tag_type": 1
+                }
+              ],
+              "tag_codes": [
+                "insurance_freight",
+                "FreightFree",
+                "ad_double_cos"
+              ]
+            },
+            "extend_info": {
+              "is_in_cart": false
+            }
+          },
+          "custom_model": {
+            "selection_square_model": {
+              "is_adv_approve": false,
+              "buyin_home_page_reason": {
+                "content": "单笔赚¥2.9"
+              },
+              "hit_ranking_list": false
+            }
+          }
+        },
+        "sale_data": {
+          "sale": "0-10",
+          "sale_amount": "40+",
+          "sale_types": [
+
+          ]
+        },
+        "video_data": {
+          "item_id": "",
+          "video_url": "",
+          "duration": 0,
+          "cover_url": "",
+          "publish_time": 0,
+          "video_name": ""
+        },
+        "live_data": {
+          "room_id": "",
+          "create_time": 0,
+          "room_text": ""
+        }
+      },
+      {
+        "product_data": {
+          "product_id": "3616121080122591904",
+          "promotion_id": "3618288801731998784",
+          "base_model": {
+            "product_info": {
+              "name": "女童凉鞋2026年夏季新款小女孩网红公主鞋防滑百搭中大童沙滩鞋子",
+              "main_img": {
+                "uri": "ecom-shop-material/TPqTJKEv_m_55777c38ea7ff04be6c7548f58d9376a_sx_493100_www800-800",
+                "url_list": [
+                  "https://p9-aio.ecombdimg.com/obj/ecom-shop-material/TPqTJKEv_m_55777c38ea7ff04be6c7548f58d9376a_sx_493100_www800-800"
+                ]
+              }
+            },
+            "promotion_info": {
+              "cos_info": {
+                "cos": {
+                  "cos_fee": {
+                    "origin": 890,
+                    "integer": "8",
+                    "decimal": "9",
+                    "suffix": ""
+                  },
+                  "cos_ratio": {
+                    "origin": 10,
+                    "integer": "10",
+                    "decimal": "",
+                    "suffix": "%"
+                  }
+                },
+                "cos_type": 3,
+                "tiered_cos_info": {
+
+                }
+              }
+            },
+            "marketing_info": {
+              "price_desc": {
+                "price": {
+                  "origin": 8900,
+                  "integer": "89",
+                  "decimal": "",
+                  "suffix": ""
+                },
+                "price_text": "到手价"
+              }
+            },
+            "shop_info": {
+              "shop_id": 93253508,
+              "shop_name": "美哈童鞋旗舰店",
+              "shop_logo": {
+                "url_list": [
+                  "https://p6-ecom-qualification-sign.ecombdimg.com/tos-cn-i-6vegkygxbk/09fea23a09224566b6446c5f982ee7f7~tplv-6vegkygxbk-s:750.image?lk3s=c9156bde&x-expires=1812083402&x-signature=wc6lGycoS5r8I07B1c1mhAnNGqA%3D"
+                ]
+              },
+              "shop_score_info": {
+                "has_data": true,
+                "shop_score": {
+                  "score": 90,
+                  "rating": "高",
+                  "percentage": 0,
+                  "rise_than_7d_ago": 0
+                }
+              }
+            },
+            "tag_info": {
+              "second_tags": [
+                {
+                  "type": "LowPrice",
+                  "text": {
+                    "text": "低价好卖",
+                    "color": "rgba(255,106,0,1)"
+                  },
+                  "border_color": "rgba(255,106,0,0.3)",
+                  "tag_type": 1
+                },
+                {
+                  "type": "insurance_freight",
+                  "text": {
+                    "text": "运费险"
+                  },
+                  "border_color": "rgba(255, 112, 29, 0.34)",
+                  "tag_type": 1
+                }
+              ],
+              "tag_codes": [
+                "insurance_freight",
+                "LowPrice"
+              ]
+            },
+            "extend_info": {
+              "is_in_cart": true
+            }
+          },
+          "custom_model": {
+            "selection_square_model": {
+              "is_adv_approve": false,
+              "buyin_home_page_reason": {
+                "content": "单笔赚¥8.9"
+              },
+              "hit_ranking_list": false
+            }
+          }
+        },
+        "sale_data": {
+          "sale": "0-10",
+          "sale_amount": "200+",
+          "sale_types": [
+
+          ]
+        },
+        "video_data": {
+          "item_id": "",
+          "video_url": "",
+          "duration": 0,
+          "cover_url": "",
+          "publish_time": 0,
+          "video_name": ""
+        },
+        "live_data": {
+          "room_id": "",
+          "create_time": 0,
+          "room_text": ""
+        }
+      },
+      {
+        "product_data": {
+          "product_id": "3751133086994268955",
+          "promotion_id": "3751134143388451084",
+          "base_model": {
+            "product_info": {
+              "name": "ABC女童爱莎公主包头凉鞋2026夏季新款儿童软底高跟水晶单鞋时尚",
+              "main_img": {
+                "uri": "ecom-shop-material/jpeg_m_0f3415deb65282e575795294887bfa9c_sx_289865_www1280-1280",
+                "url_list": [
+                  "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_0f3415deb65282e575795294887bfa9c_sx_289865_www1280-1280"
+                ]
+              }
+            },
+            "promotion_info": {
+              "cos_info": {
+                "cos": {
+                  "cos_fee": {
+                    "origin": 701,
+                    "integer": "7",
+                    "decimal": "01",
+                    "suffix": ""
+                  },
+                  "cos_ratio": {
+                    "origin": 13,
+                    "integer": "13",
+                    "decimal": "",
+                    "suffix": "%"
+                  }
+                },
+                "cos_ratio_text": "双佣金",
+                "cos_type": 3,
+                "tiered_cos_info": {
+
+                },
+                "ad_cos": {
+                  "cos_fee": {
+                    "origin": 701,
+                    "integer": "7",
+                    "decimal": "01",
+                    "suffix": ""
+                  },
+                  "cos_ratio": {
+                    "origin": 13,
+                    "integer": "13",
+                    "decimal": "",
+                    "suffix": "%"
+                  }
+                },
+                "ad_cos_effective_time": 48,
+                "ad_cos_recommend_effective_time": 48
+              }
+            },
+            "marketing_info": {
+              "price_desc": {
+                "price": {
+                  "origin": 5390,
+                  "integer": "53",
+                  "decimal": "9",
+                  "suffix": ""
+                },
+                "regular_price": {
+                  "origin": 6390,
+                  "integer": "63",
+                  "decimal": "9",
+                  "suffix": ""
+                },
+                "price_text": "到手价"
+              }
+            },
+            "shop_info": {
+              "shop_id": 173915867,
+              "shop_name": "萌宝潮鞋坊",
+              "shop_logo": {
+                "url_list": [
+                  "https://p6-ecom-qualification-sign.ecombdimg.com/tos-cn-i-6vegkygxbk/3c920f387b3540dbad9f1bca98e50105~tplv-6vegkygxbk-s:750.image?lk3s=c9156bde&x-expires=1812081042&x-signature=xLKy3ZKCc4v3m3eAD01dBP64maE%3D"
+                ]
+              },
+              "shop_score_info": {
+                "has_data": true,
+                "shop_score": {
+                  "score": 81,
+                  "rating": "中",
+                  "percentage": 0,
+                  "rise_than_7d_ago": 0
+                }
+              }
+            },
+            "tag_info": {
+              "second_tags": [
+                {
+                  "type": "ad_double_cos",
+                  "text": {
+                    "text": "商家投千川"
+                  },
+                  "border_color": "rgba(255, 112, 29, 0.34)",
+                  "tag_type": 1
+                },
+                {
+                  "type": "SalesInfos",
+                  "text": {
+                    "text": "券",
+                    "color": "#FF3B52"
+                  },
+                  "text_right": {
+                    "text": "20减5",
+                    "color": "#FF3B52"
+                  },
+                  "border_color": "rgba(255, 51, 68, 0.25)",
+                  "tag_type": 2
+                },
+                {
+                  "type": "insurance_freight",
+                  "text": {
+                    "text": "运费险"
+                  },
+                  "border_color": "rgba(255, 112, 29, 0.34)",
+                  "tag_type": 1
+                }
+              ],
+              "tag_codes": [
+                "insurance_freight",
+                "SalesInfos",
+                "ad_double_cos"
+              ]
+            },
+            "extend_info": {
+              "is_in_cart": false
+            }
+          },
+          "custom_model": {
+            "selection_square_model": {
+              "is_adv_approve": false,
+              "buyin_home_page_reason": {
+                "content": "单笔赚¥7"
+              },
+              "hit_ranking_list": false
+            }
+          }
+        },
+        "sale_data": {
+          "sale": "0-10",
+          "sale_amount": "100+",
+          "sale_types": [
+
+          ]
+        },
+        "video_data": {
+          "item_id": "",
+          "video_url": "",
+          "duration": 0,
+          "cover_url": "",
+          "publish_time": 0,
+          "video_name": ""
+        },
+        "live_data": {
+          "room_id": "",
+          "create_time": 0,
+          "room_text": ""
+        }
+      },
+      {
+        "product_data": {
+          "product_id": "3674786119653917028",
+          "promotion_id": "3674789323254972020",
+          "base_model": {
+            "product_info": {
+              "name": "女童凉鞋2026夏季新款时尚女孩公主洋气儿童凉鞋软底防滑中大童鞋",
+              "main_img": {
+                "uri": "ecom-shop-material/MnmWPWUm_m_e2eec52a97ff746405a0aaedbdec1d02_sx_172193_www800-800",
+                "url_list": [
+                  "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/MnmWPWUm_m_e2eec52a97ff746405a0aaedbdec1d02_sx_172193_www800-800"
+                ]
+              }
+            },
+            "promotion_info": {
+              "cos_info": {
+                "cos": {
+                  "cos_fee": {
+                    "origin": 378,
+                    "integer": "3",
+                    "decimal": "78",
+                    "suffix": ""
+                  },
+                  "cos_ratio": {
+                    "origin": 10,
+                    "integer": "10",
+                    "decimal": "",
+                    "suffix": "%"
+                  }
+                },
+                "cos_ratio_text": "活动高佣",
+                "cos_type": 8,
+                "tiered_cos_info": {
+
+                }
+              }
+            },
+            "marketing_info": {
+              "price_desc": {
+                "price": {
+                  "origin": 3780,
+                  "integer": "37",
+                  "decimal": "8",
+                  "suffix": ""
+                },
+                "regular_price": {
+                  "origin": 5800,
+                  "integer": "58",
+                  "decimal": "",
+                  "suffix": ""
+                },
+                "price_text": "到手价"
+              }
+            },
+            "shop_info": {
+              "shop_id": 142015357,
+              "shop_name": "ABC童鞋甄选屋",
+              "shop_logo": {
+                "url_list": [
+                  "https://p3-ecom-qualification-sign.ecombdimg.com/tos-cn-i-6vegkygxbk/0def5148de9d49eebad45be05df5336f~tplv-6vegkygxbk-s:750.image?lk3s=c9156bde&x-expires=1812080735&x-signature=zdUKUwDVkyg1vnYGuknmjgMqwWY%3D"
+                ]
+              },
+              "shop_score_info": {
+                "has_data": true,
+                "shop_score": {
+                  "score": 86,
+                  "rating": "中",
+                  "percentage": 0,
+                  "rise_than_7d_ago": 0
+                }
+              }
+            },
+            "tag_info": {
+              "second_tags": [
+                {
+                  "type": "SalesInfos",
+                  "text": {
+                    "text": "券",
+                    "color": "#FF3B52"
+                  },
+                  "text_right": {
+                    "text": "35减5",
+                    "color": "#FF3B52"
+                  },
+                  "border_color": "rgba(255, 51, 68, 0.25)",
+                  "tag_type": 2
+                },
+                {
+                  "type": "insurance_freight",
+                  "text": {
+                    "text": "运费险"
+                  },
+                  "border_color": "rgba(255, 112, 29, 0.34)",
+                  "tag_type": 1
+                }
+              ],
+              "tag_codes": [
+                "insurance_freight",
+                "SalesInfos"
+              ]
+            },
+            "extend_info": {
+              "is_in_cart": true
+            }
+          },
+          "custom_model": {
+            "selection_square_model": {
+              "is_adv_approve": false,
+              "buyin_home_page_reason": {
+                "content": "单笔赚¥3.8"
+              },
+              "hit_ranking_list": false
+            }
+          }
+        },
+        "sale_data": {
+          "sale": "0-10",
+          "sale_amount": "60+",
+          "sale_types": [
+
+          ]
+        },
+        "video_data": {
+          "item_id": "",
+          "video_url": "",
+          "duration": 0,
+          "cover_url": "",
+          "publish_time": 0,
+          "video_name": ""
+        },
+        "live_data": {
+          "room_id": "",
+          "create_time": 0,
+          "room_text": ""
+        }
+      },
+      {
+        "product_data": {
+          "product_id": "3810538394405175563",
+          "promotion_id": "3811985293792379144",
+          "base_model": {
+            "product_info": {
+              "name": "女童露趾珍珠凉鞋软底百搭公主鞋2026春夏新款女孩蝴蝶结沙滩鞋",
+              "main_img": {
+                "uri": "ecom-shop-material/jpeg_m_17a99155eba4976ec680e0909870d4b2_sx_561466_www800-800",
+                "url_list": [
+                  "https://p9-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_17a99155eba4976ec680e0909870d4b2_sx_561466_www800-800"
+                ]
+              }
+            },
+            "promotion_info": {
+              "cos_info": {
+                "cos": {
+                  "cos_fee": {
+                    "origin": 398,
+                    "integer": "3",
+                    "decimal": "98",
+                    "suffix": ""
+                  },
+                  "cos_ratio": {
+                    "origin": 10,
+                    "integer": "10",
+                    "decimal": "",
+                    "suffix": "%"
+                  }
+                },
+                "cos_type": 3,
+                "tiered_cos_info": {
+
+                }
+              }
+            },
+            "marketing_info": {
+              "price_desc": {
+                "price": {
+                  "origin": 3980,
+                  "integer": "39",
+                  "decimal": "8",
+                  "suffix": ""
+                },
+                "price_text": "到手价"
+              }
+            },
+            "shop_info": {
+              "shop_id": 136455248,
+              "shop_name": "乐天童鞋",
+              "shop_logo": {
+                "url_list": [
+                  "https://p6-ecom-qualification-sign.ecombdimg.com/tos-cn-i-6vegkygxbk/6443875e85f7497d87eee685a886f70f~tplv-6vegkygxbk-s:750.image?lk3s=c9156bde&x-expires=1812083379&x-signature=1m0keAtoPsN%2FugrFzo3SGghMIQA%3D"
+                ]
+              },
+              "shop_score_info": {
+                "has_data": true,
+                "shop_score": {
+                  "score": 87,
+                  "rating": "中",
+                  "percentage": 0,
+                  "rise_than_7d_ago": 0
+                }
+              }
+            },
+            "tag_info": {
+              "second_tags": [
+                {
+                  "type": "insurance_freight",
+                  "text": {
+                    "text": "运费险"
+                  },
+                  "border_color": "rgba(255, 112, 29, 0.34)",
+                  "tag_type": 1
+                }
+              ],
+              "tag_codes": [
+                "insurance_freight"
+              ]
+            },
+            "extend_info": {
+              "is_in_cart": false
+            }
+          },
+          "custom_model": {
+            "selection_square_model": {
+              "is_adv_approve": false,
+              "buyin_home_page_reason": {
+                "content": "单笔赚¥4"
+              },
+              "hit_ranking_list": false
+            }
+          }
+        },
+        "sale_data": {
+          "sale": "0-10",
+          "sale_amount": "40+",
+          "sale_types": [
+
+          ]
+        },
+        "video_data": {
+          "item_id": "",
+          "video_url": "",
+          "duration": 0,
+          "cover_url": "",
+          "publish_time": 0,
+          "video_name": ""
+        },
+        "live_data": {
+          "room_id": "",
+          "create_time": 0,
+          "room_text": ""
+        }
+      },
+      {
+        "product_data": {
+          "product_id": "3672043886072693145",
+          "promotion_id": "3672885338306688969",
+          "base_model": {
+            "product_info": {
+              "name": "儿童凉鞋2026夏季新款公主鞋软底沙滩凉拖中大童儿童防滑凉鞋女童",
+              "main_img": {
+                "uri": "ecom-shop-material/lJmSSyNI_m_544f0695e2d19ebdc98e06aa1f0df60c_sx_245219_www800-800",
+                "url_list": [
+                  "https://p9-aio.ecombdimg.com/obj/ecom-shop-material/lJmSSyNI_m_544f0695e2d19ebdc98e06aa1f0df60c_sx_245219_www800-800"
+                ]
+              }
+            },
+            "promotion_info": {
+              "cos_info": {
+                "cos": {
+                  "cos_fee": {
+                    "origin": 287,
+                    "integer": "2",
+                    "decimal": "87",
+                    "suffix": ""
+                  },
+                  "cos_ratio": {
+                    "origin": 8,
+                    "integer": "8",
+                    "decimal": "",
+                    "suffix": "%"
+                  }
+                },
+                "cos_type": 3,
+                "tiered_cos_info": {
+
+                }
+              }
+            },
+            "marketing_info": {
+              "price_desc": {
+                "price": {
+                  "origin": 3590,
+                  "integer": "35",
+                  "decimal": "9",
+                  "suffix": ""
+                },
+                "price_text": "到手价"
+              }
+            },
+            "shop_info": {
+              "shop_id": 56701342,
+              "shop_name": "小黄鸭柚柚枝叙童鞋专卖店",
+              "shop_logo": {
+                "url_list": [
+                  "https://p3-ecom-qualification-sign.ecombdimg.com/tos-cn-i-6vegkygxbk/8e59e5f69aed45ce85e42467a7c670ec~tplv-6vegkygxbk-s:750.image?lk3s=c9156bde&x-expires=1812083260&x-signature=Xauuivm0C48utDYPx2Yg6zaXcig%3D"
+                ]
+              },
+              "shop_score_info": {
+                "has_data": true,
+                "shop_score": {
+                  "score": 88,
+                  "rating": "中",
+                  "percentage": 0,
+                  "rise_than_7d_ago": 0
+                }
+              }
+            },
+            "tag_info": {
+              "second_tags": [
+                {
+                  "type": "insurance_freight",
+                  "text": {
+                    "text": "运费险"
+                  },
+                  "border_color": "rgba(255, 112, 29, 0.34)",
+                  "tag_type": 1
+                }
+              ],
+              "tag_codes": [
+                "insurance_freight"
+              ]
+            },
+            "extend_info": {
+              "is_in_cart": true
+            }
+          },
+          "custom_model": {
+            "selection_square_model": {
+              "is_adv_approve": false,
+              "buyin_home_page_reason": {
+                "content": "单笔赚¥2.9"
+              },
+              "hit_ranking_list": false
+            }
+          }
+        },
+        "sale_data": {
+          "sale": "0-10",
+          "sale_amount": "40+",
+          "sale_types": [
+
+          ]
+        },
+        "video_data": {
+          "item_id": "",
+          "video_url": "",
+          "duration": 0,
+          "cover_url": "",
+          "publish_time": 0,
+          "video_name": ""
+        },
+        "live_data": {
+          "room_id": "",
+          "create_time": 0,
+          "room_text": ""
+        }
+      },
+      {
+        "product_data": {
+          "product_id": "3673136437831794721",
+          "promotion_id": "3810400249072189753",
+          "base_model": {
+            "product_info": {
+              "name": "爱莎公主女童凉鞋2026新款夏时尚高跟网红爆款儿童水晶鞋小中大童",
+              "main_img": {
+                "uri": "ecom-shop-material/EgGyZocR_m_cb54230a77d8a1931880965450d6666e_sx_770437_www800-800",
+                "url_list": [
+                  "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/EgGyZocR_m_cb54230a77d8a1931880965450d6666e_sx_770437_www800-800"
+                ]
+              }
+            },
+            "promotion_info": {
+              "cos_info": {
+                "cos": {
+                  "cos_fee": {
+                    "origin": 294,
+                    "integer": "2",
+                    "decimal": "94",
+                    "suffix": ""
+                  },
+                  "cos_ratio": {
+                    "origin": 6,
+                    "integer": "6",
+                    "decimal": "",
+                    "suffix": "%"
+                  }
+                },
+                "cos_type": 3,
+                "tiered_cos_info": {
+
+                }
+              }
+            },
+            "marketing_info": {
+              "price_desc": {
+                "price": {
+                  "origin": 4900,
+                  "integer": "49",
+                  "decimal": "",
+                  "suffix": ""
+                },
+                "price_text": "到手价"
+              }
+            },
+            "shop_info": {
+              "shop_id": 53296381,
+              "shop_name": "融融童鞋馆",
+              "shop_logo": {
+                "url_list": [
+                  "https://p3-ecom-qualification-sign.ecombdimg.com/tos-cn-i-6vegkygxbk/5b6d406f774445edabe7940d2397a296~tplv-6vegkygxbk-s:750.image?lk3s=c9156bde&x-expires=1812081050&x-signature=G9c%2BuUHJ6ZOPTPHtVgbpQUL1KAQ%3D"
+                ]
+              },
+              "shop_score_info": {
+                "has_data": true,
+                "shop_score": {
+                  "score": 91,
+                  "rating": "高",
+                  "percentage": 0,
+                  "rise_than_7d_ago": 0
+                }
+              }
+            },
+            "tag_info": {
+              "second_tags": [
+                {
+                  "type": "insurance_freight",
+                  "text": {
+                    "text": "运费险"
+                  },
+                  "border_color": "rgba(255, 112, 29, 0.34)",
+                  "tag_type": 1
+                },
+                {
+                  "type": "FreightFree",
+                  "text": {
+                    "text": "包邮"
+                  },
+                  "border_color": "rgba(255, 112, 29, 0.34)",
+                  "tag_type": 1
+                }
+              ],
+              "tag_codes": [
+                "insurance_freight",
+                "FreightFree"
+              ]
+            },
+            "extend_info": {
+              "is_in_cart": true
+            }
+          },
+          "custom_model": {
+            "selection_square_model": {
+              "is_adv_approve": false,
+              "buyin_home_page_reason": {
+                "content": "单笔赚¥2.9"
+              },
+              "hit_ranking_list": false
+            }
+          }
+        },
+        "sale_data": {
+          "sale": "0-10",
+          "sale_amount": "40+",
+          "sale_types": [
+
+          ]
+        },
+        "video_data": {
+          "item_id": "",
+          "video_url": "",
+          "duration": 0,
+          "cover_url": "",
+          "publish_time": 0,
+          "video_name": ""
+        },
+        "live_data": {
+          "room_id": "",
+          "create_time": 0,
+          "room_text": ""
+        }
+      },
+      {
+        "product_data": {
+          "product_id": "3814217036192678246",
+          "promotion_id": "3814218577876222036",
+          "base_model": {
+            "product_info": {
+              "name": "阿童木女童罗马凉鞋2026新款儿童夏季公主蝴蝶结沙滩鞋洋气小女孩",
+              "main_img": {
+                "uri": "ecom-shop-material/jpeg_m_be6df7fbaadf2663cff4097c8e16ea95_sx_295927_www800-800",
+                "url_list": [
+                  "https://p9-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_be6df7fbaadf2663cff4097c8e16ea95_sx_295927_www800-800"
+                ]
+              }
+            },
+            "promotion_info": {
+              "cos_info": {
+                "cos": {
+                  "cos_fee": {
+                    "origin": 315,
+                    "integer": "3",
+                    "decimal": "15",
+                    "suffix": ""
+                  },
+                  "cos_ratio": {
+                    "origin": 7,
+                    "integer": "7",
+                    "decimal": "",
+                    "suffix": "%"
+                  }
+                },
+                "cos_type": 3,
+                "tiered_cos_info": {
+
+                }
+              }
+            },
+            "marketing_info": {
+              "price_desc": {
+                "price": {
+                  "origin": 4500,
+                  "integer": "45",
+                  "decimal": "",
+                  "suffix": ""
+                },
+                "price_text": "到手价"
+              }
+            },
+            "shop_info": {
+              "shop_id": 195454294,
+              "shop_name": "阿童木运动旗舰店",
+              "shop_logo": {
+                "url_list": [
+                  "https://p6-ecom-qualification-sign.ecombdimg.com/tos-cn-i-6vegkygxbk/50bba90286814667b9f1f5f8fed63dff~tplv-6vegkygxbk-s:750.image?lk3s=c9156bde&x-expires=1812081014&x-signature=exRmtO%2FkYo%2F5zceuOkj3RRfpplI%3D"
+                ]
+              },
+              "shop_score_info": {
+                "has_data": true,
+                "shop_score": {
+                  "score": 85,
+                  "rating": "中",
+                  "percentage": 0,
+                  "rise_than_7d_ago": 0
+                }
+              }
+            },
+            "tag_info": {
+              "second_tags": [
+                {
+                  "type": "insurance_freight",
+                  "text": {
+                    "text": "运费险"
+                  },
+                  "border_color": "rgba(255, 112, 29, 0.34)",
+                  "tag_type": 1
+                }
+              ],
+              "tag_codes": [
+                "insurance_freight"
+              ]
+            },
+            "extend_info": {
+              "is_in_cart": false
+            }
+          },
+          "custom_model": {
+            "selection_square_model": {
+              "is_adv_approve": false,
+              "buyin_home_page_reason": {
+                "content": "单笔赚¥3.1"
+              },
+              "hit_ranking_list": false
+            }
+          }
+        },
+        "sale_data": {
+          "sale": "0-10",
+          "sale_amount": "60+",
+          "sale_types": [
+
+          ]
+        },
+        "video_data": {
+          "item_id": "",
+          "video_url": "",
+          "duration": 0,
+          "cover_url": "",
+          "publish_time": 0,
+          "video_name": ""
+        },
+        "live_data": {
+          "room_id": "",
+          "create_time": 0,
+          "room_text": ""
+        }
+      },
+      {
+        "product_data": {
+          "product_id": "3686447370528227644",
+          "promotion_id": "3686453274271169982",
+          "base_model": {
+            "product_info": {
+              "name": "女童凉鞋2026夏季新款中大童百搭仙女风公主鞋女孩校园儿童沙滩鞋",
+              "main_img": {
+                "uri": "ecom-shop-material/TPqTJKEv_m_a8e4a71bbdaffffa192ca82004f318b9_sx_378197_www800-800",
+                "url_list": [
+                  "https://p9-aio.ecombdimg.com/obj/ecom-shop-material/TPqTJKEv_m_a8e4a71bbdaffffa192ca82004f318b9_sx_378197_www800-800"
+                ]
+              }
+            },
+            "promotion_info": {
+              "cos_info": {
+                "cos": {
+                  "cos_fee": {
+                    "origin": 790,
+                    "integer": "7",
+                    "decimal": "9",
+                    "suffix": ""
+                  },
+                  "cos_ratio": {
+                    "origin": 10,
+                    "integer": "10",
+                    "decimal": "",
+                    "suffix": "%"
+                  }
+                },
+                "cos_type": 3,
+                "tiered_cos_info": {
+
+                }
+              }
+            },
+            "marketing_info": {
+              "price_desc": {
+                "price": {
+                  "origin": 7900,
+                  "integer": "79",
+                  "decimal": "",
+                  "suffix": ""
+                },
+                "price_text": "到手价"
+              }
+            },
+            "shop_info": {
+              "shop_id": 93253508,
+              "shop_name": "美哈童鞋旗舰店",
+              "shop_logo": {
+                "url_list": [
+                  "https://p6-ecom-qualification-sign.ecombdimg.com/tos-cn-i-6vegkygxbk/09fea23a09224566b6446c5f982ee7f7~tplv-6vegkygxbk-s:750.image?lk3s=c9156bde&x-expires=1812083402&x-signature=wc6lGycoS5r8I07B1c1mhAnNGqA%3D"
+                ]
+              },
+              "shop_score_info": {
+                "has_data": true,
+                "shop_score": {
+                  "score": 90,
+                  "rating": "高",
+                  "percentage": 0,
+                  "rise_than_7d_ago": 0
+                }
+              }
+            },
+            "tag_info": {
+              "second_tags": [
+                {
+                  "type": "LowPrice",
+                  "text": {
+                    "text": "低价好卖",
+                    "color": "rgba(255,106,0,1)"
+                  },
+                  "border_color": "rgba(255,106,0,0.3)",
+                  "tag_type": 1
+                },
+                {
+                  "type": "insurance_freight",
+                  "text": {
+                    "text": "运费险"
+                  },
+                  "border_color": "rgba(255, 112, 29, 0.34)",
+                  "tag_type": 1
+                }
+              ],
+              "tag_codes": [
+                "insurance_freight",
+                "LowPrice"
+              ]
+            },
+            "extend_info": {
+              "is_in_cart": true
+            }
+          },
+          "custom_model": {
+            "selection_square_model": {
+              "is_adv_approve": false,
+              "buyin_home_page_reason": {
+                "content": "单笔赚¥7.9"
+              },
+              "hit_ranking_list": false
+            }
+          }
+        },
+        "sale_data": {
+          "sale": "0-10",
+          "sale_amount": "100+",
+          "sale_types": [
+
+          ]
+        },
+        "video_data": {
+          "item_id": "",
+          "video_url": "",
+          "duration": 0,
+          "cover_url": "",
+          "publish_time": 0,
+          "video_name": ""
+        },
+        "live_data": {
+          "room_id": "",
+          "create_time": 0,
+          "room_text": ""
+        }
+      },
+      {
+        "product_data": {
+          "product_id": "3813023153354047872",
+          "promotion_id": "3813025277114712275",
+          "base_model": {
+            "product_info": {
+              "name": "秋娜诗女童凉鞋2026夏季新款女孩公主鞋软底鞋子蝴蝶结儿童沙滩鞋",
+              "main_img": {
+                "uri": "ecom-shop-material/png_m_bea09e7d5072db8b8f0cf8c913293c7c_sx_1395189_www800-800",
+                "url_list": [
+                  "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/png_m_bea09e7d5072db8b8f0cf8c913293c7c_sx_1395189_www800-800"
+                ]
+              }
+            },
+            "promotion_info": {
+              "cos_info": {
+                "cos": {
+                  "cos_fee": {
+                    "origin": 195,
+                    "integer": "1",
+                    "decimal": "95",
+                    "suffix": ""
+                  },
+                  "cos_ratio": {
+                    "origin": 5,
+                    "integer": "5",
+                    "decimal": "",
+                    "suffix": "%"
+                  }
+                },
+                "cos_type": 3,
+                "tiered_cos_info": {
+
+                }
+              }
+            },
+            "marketing_info": {
+              "price_desc": {
+                "price": {
+                  "origin": 3890,
+                  "integer": "38",
+                  "decimal": "9",
+                  "suffix": ""
+                },
+                "price_text": "到手价"
+              }
+            },
+            "shop_info": {
+              "shop_id": 192115967,
+              "shop_name": "秋娜诗落雨童鞋专卖店",
+              "shop_logo": {
+                "url_list": [
+                  "https://p3-ecom-qualification-sign.ecombdimg.com/tos-cn-i-6vegkygxbk/9bbc26673cf34c25b8da4b874c2e9386~tplv-6vegkygxbk-s:750.image?lk3s=c9156bde&x-expires=1812080415&x-signature=tfYQcGBAr0uVhxnlNLns3RuP4B4%3D"
+                ]
+              },
+              "shop_score_info": {
+                "has_data": true,
+                "shop_score": {
+                  "score": 80,
+                  "rating": "中",
+                  "percentage": 0,
+                  "rise_than_7d_ago": 0
+                }
+              }
+            },
+            "tag_info": {
+              "second_tags": [
+                {
+                  "type": "SalesInfos",
+                  "text": {
+                    "text": "券",
+                    "color": "#FF3B52"
+                  },
+                  "text_right": {
+                    "text": "减1",
+                    "color": "#FF3B52"
+                  },
+                  "border_color": "rgba(255, 51, 68, 0.25)",
+                  "tag_type": 2
+                },
+                {
+                  "type": "insurance_freight",
+                  "text": {
+                    "text": "运费险"
+                  },
+                  "border_color": "rgba(255, 112, 29, 0.34)",
+                  "tag_type": 1
+                }
+              ],
+              "tag_codes": [
+                "insurance_freight",
+                "SalesInfos"
+              ]
+            },
+            "extend_info": {
+              "is_in_cart": false
+            }
+          },
+          "custom_model": {
+            "selection_square_model": {
+              "is_adv_approve": false,
+              "buyin_home_page_reason": {
+                "content": "单笔赚¥1.9"
+              },
+              "hit_ranking_list": false
+            }
+          }
+        },
+        "sale_data": {
+          "sale": "0-10",
+          "sale_amount": "40+",
+          "sale_types": [
+
+          ]
+        },
+        "video_data": {
+          "item_id": "",
+          "video_url": "",
+          "duration": 0,
+          "cover_url": "",
+          "publish_time": 0,
+          "video_name": ""
+        },
+        "live_data": {
+          "room_id": "",
+          "create_time": 0,
+          "room_text": ""
+        }
+      },
+      {
+        "product_data": {
+          "product_id": "3817594774450470970",
+          "promotion_id": "3817596840354906362",
+          "base_model": {
+            "product_info": {
+              "name": "巴布豆2026女童夏季新款蝴蝶结水钻公主风软底防滑包头沙滩凉鞋",
+              "main_img": {
+                "uri": "ecom-shop-material/jpeg_m_a0e8f982df8d5ffe22b0fc7326296647_sx_517831_www800-800",
+                "url_list": [
+                  "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_a0e8f982df8d5ffe22b0fc7326296647_sx_517831_www800-800"
+                ]
+              }
+            },
+            "promotion_info": {
+              "cos_info": {
+                "cos": {
+                  "cos_fee": {
+                    "origin": 790,
+                    "integer": "7",
+                    "decimal": "9",
+                    "suffix": ""
+                  },
+                  "cos_ratio": {
+                    "origin": 10,
+                    "integer": "10",
+                    "decimal": "",
+                    "suffix": "%"
+                  }
+                },
+                "cos_type": 3,
+                "tiered_cos_info": {
+
+                }
+              }
+            },
+            "marketing_info": {
+              "price_desc": {
+                "price": {
+                  "origin": 7900,
+                  "integer": "79",
+                  "decimal": "",
+                  "suffix": ""
+                },
+                "regular_price": {
+                  "origin": 7990,
+                  "integer": "79",
+                  "decimal": "9",
+                  "suffix": ""
+                },
+                "price_text": "到手价"
+              }
+            },
+            "shop_info": {
+              "shop_id": 3545735,
+              "shop_name": "巴布豆浦熙亲子专卖店",
+              "shop_logo": {
+                "url_list": [
+                  "https://p3-ecom-qualification-sign.ecombdimg.com/tos-cn-i-6vegkygxbk/304add0d30664bd3a713bd9935858c41~tplv-6vegkygxbk-s:750.image?lk3s=c9156bde&x-expires=1812081185&x-signature=yov%2BXwpRZK4NI8VS69jXoVEa2Bw%3D"
+                ]
+              },
+              "shop_score_info": {
+                "has_data": true,
+                "shop_score": {
+                  "score": 91,
+                  "rating": "高",
+                  "percentage": 0,
+                  "rise_than_7d_ago": 0
+                }
+              }
+            },
+            "tag_info": {
+              "second_tags": [
+                {
+                  "type": "insurance_freight",
+                  "text": {
+                    "text": "运费险"
+                  },
+                  "border_color": "rgba(255, 112, 29, 0.34)",
+                  "tag_type": 1
+                },
+                {
+                  "type": "FreightFree",
+                  "text": {
+                    "text": "包邮"
+                  },
+                  "border_color": "rgba(255, 112, 29, 0.34)",
+                  "tag_type": 1
+                }
+              ],
+              "tag_codes": [
+                "insurance_freight",
+                "FreightFree"
+              ]
+            },
+            "extend_info": {
+              "is_in_cart": true
+            }
+          },
+          "custom_model": {
+            "selection_square_model": {
+              "is_adv_approve": false,
+              "buyin_home_page_reason": {
+                "content": "单笔赚¥7.9"
+              },
+              "hit_ranking_list": false
+            }
+          }
+        },
+        "sale_data": {
+          "sale": "0-10",
+          "sale_amount": "60+",
+          "sale_types": [
+
+          ]
+        },
+        "video_data": {
+          "item_id": "",
+          "video_url": "",
+          "duration": 0,
+          "cover_url": "",
+          "publish_time": 0,
+          "video_name": ""
+        },
+        "live_data": {
+          "room_id": "",
+          "create_time": 0,
+          "room_text": ""
+        }
+      },
+      {
+        "product_data": {
+          "product_id": "3740040129046249640",
+          "promotion_id": "3740045315319922906",
+          "base_model": {
+            "product_info": {
+              "name": "儿童凉鞋2026夏季新款公主鞋软底沙滩凉拖中大童儿童防滑凉鞋女童",
+              "main_img": {
+                "uri": "ecom-shop-material/jpeg_m_185a8fbd557249afeb6639755292fe1d_sx_181535_www800-800",
+                "url_list": [
+                  "https://p9-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_185a8fbd557249afeb6639755292fe1d_sx_181535_www800-800"
+                ]
+              }
+            },
+            "promotion_info": {
+              "cos_info": {
+                "cos": {
+                  "cos_fee": {
+                    "origin": 359,
+                    "integer": "3",
+                    "decimal": "59",
+                    "suffix": ""
+                  },
+                  "cos_ratio": {
+                    "origin": 10,
+                    "integer": "10",
+                    "decimal": "",
+                    "suffix": "%"
+                  }
+                },
+                "cos_type": 3,
+                "tiered_cos_info": {
+
+                }
+              }
+            },
+            "marketing_info": {
+              "price_desc": {
+                "price": {
+                  "origin": 3590,
+                  "integer": "35",
+                  "decimal": "9",
+                  "suffix": ""
+                },
+                "price_text": "到手价"
+              }
+            },
+            "shop_info": {
+              "shop_id": 194438140,
+              "shop_name": "巴歌熊晏曾童鞋专卖店",
+              "shop_logo": {
+                "url_list": [
+                  "https://p6-ecom-qualification-sign.ecombdimg.com/tos-cn-i-6vegkygxbk/38a8eb645f324092b889362b3eb089ad~tplv-6vegkygxbk-s:750.image?lk3s=c9156bde&x-expires=1812082166&x-signature=zqrqC%2FfDJfy0TYPa0yA5vUl1amM%3D"
+                ]
+              },
+              "shop_score_info": {
+                "has_data": true,
+                "shop_score": {
+                  "score": 93,
+                  "rating": "高",
+                  "percentage": 0,
+                  "rise_than_7d_ago": 0
+                }
+              }
+            },
+            "tag_info": {
+              "second_tags": [
+                {
+                  "type": "insurance_freight",
+                  "text": {
+                    "text": "运费险"
+                  },
+                  "border_color": "rgba(255, 112, 29, 0.34)",
+                  "tag_type": 1
+                }
+              ],
+              "tag_codes": [
+                "insurance_freight"
+              ]
+            },
+            "extend_info": {
+              "is_in_cart": true
+            }
+          },
+          "custom_model": {
+            "selection_square_model": {
+              "is_adv_approve": false,
+              "buyin_home_page_reason": {
+                "content": "单笔赚¥3.6"
+              },
+              "hit_ranking_list": false
+            }
+          }
+        },
+        "sale_data": {
+          "sale": "0-10",
+          "sale_amount": "40+",
+          "sale_types": [
+
+          ]
+        },
+        "video_data": {
+          "item_id": "",
+          "video_url": "",
+          "duration": 0,
+          "cover_url": "",
+          "publish_time": 0,
+          "video_name": ""
+        },
+        "live_data": {
+          "room_id": "",
+          "create_time": 0,
+          "room_text": ""
+        }
+      },
+      {
+        "product_data": {
+          "product_id": "3740575752295415999",
+          "promotion_id": "3747616730562822206",
+          "base_model": {
+            "product_info": {
+              "name": "2026新款图腾公主鞋鞋子时装凉鞋凉鞋校园凉鞋女小儿童鞋子凉鞋",
+              "main_img": {
+                "uri": "ecom-shop-material/jpeg_m_988b08698842dcef6595d3ddf251bbda_sx_89208_www800-800",
+                "url_list": [
+                  "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_988b08698842dcef6595d3ddf251bbda_sx_89208_www800-800"
+                ]
+              }
+            },
+            "promotion_info": {
+              "cos_info": {
+                "cos": {
+                  "cos_fee": {
+                    "origin": 200,
+                    "integer": "2",
+                    "decimal": "",
+                    "suffix": ""
+                  },
+                  "cos_ratio": {
+                    "origin": 5,
+                    "integer": "5",
+                    "decimal": "",
+                    "suffix": "%"
+                  }
+                },
+                "cos_type": 3,
+                "tiered_cos_info": {
+
+                }
+              }
+            },
+            "marketing_info": {
+              "price_desc": {
+                "price": {
+                  "origin": 3990,
+                  "integer": "39",
+                  "decimal": "9",
+                  "suffix": ""
+                },
+                "price_text": "到手价"
+              }
+            },
+            "shop_info": {
+              "shop_id": 126457180,
+              "shop_name": "礼承童鞋",
+              "shop_logo": {
+                "url_list": [
+                  "https://p3-ecom-qualification-sign.ecombdimg.com/tos-cn-i-6vegkygxbk/bf771f4130ae4c94b1993153770d6fe9~tplv-6vegkygxbk-s:750.image?lk3s=c9156bde&x-expires=1812081030&x-signature=Fuf1EYsk91o8xkaPxl0yGEHaxG8%3D"
+                ]
+              },
+              "shop_score_info": {
+                "has_data": true,
+                "shop_score": {
+                  "score": 90,
+                  "rating": "高",
+                  "percentage": 0,
+                  "rise_than_7d_ago": 0
+                }
+              }
+            },
+            "tag_info": {
+              "second_tags": [
+                {
+                  "type": "insurance_freight",
+                  "text": {
+                    "text": "运费险"
+                  },
+                  "border_color": "rgba(255, 112, 29, 0.34)",
+                  "tag_type": 1
+                }
+              ],
+              "tag_codes": [
+                "insurance_freight"
+              ]
+            },
+            "extend_info": {
+              "is_in_cart": true
+            }
+          },
+          "custom_model": {
+            "selection_square_model": {
+              "is_adv_approve": false,
+              "buyin_home_page_reason": {
+                "content": "单笔赚¥2"
+              },
+              "hit_ranking_list": false
+            }
+          }
+        },
+        "sale_data": {
+          "sale": "0-10",
+          "sale_amount": "30+",
+          "sale_types": [
+
+          ]
+        },
+        "video_data": {
+          "item_id": "",
+          "video_url": "",
+          "duration": 0,
+          "cover_url": "",
+          "publish_time": 0,
+          "video_name": ""
+        },
+        "live_data": {
+          "room_id": "",
+          "create_time": 0,
+          "room_text": ""
+        }
+      },
+      {
+        "product_data": {
+          "product_id": "3811422397567991962",
+          "promotion_id": "3811427087496118430",
+          "base_model": {
+            "product_info": {
+              "name": "女童水钻蝴蝶结厚底夏季2026新款沙滩罗马小女孩软底洋气儿童凉鞋",
+              "main_img": {
+                "uri": "ecom-shop-material/jpeg_m_f82487fef28353db77b775b594983b7c_sx_119198_www800-800",
+                "url_list": [
+                  "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_f82487fef28353db77b775b594983b7c_sx_119198_www800-800"
+                ]
+              }
+            },
+            "promotion_info": {
+              "cos_info": {
+                "cos": {
+                  "cos_fee": {
+                    "origin": 250,
+                    "integer": "2",
+                    "decimal": "5",
+                    "suffix": ""
+                  },
+                  "cos_ratio": {
+                    "origin": 5,
+                    "integer": "5",
+                    "decimal": "",
+                    "suffix": "%"
+                  }
+                },
+                "cos_type": 3,
+                "tiered_cos_info": {
+
+                }
+              }
+            },
+            "marketing_info": {
+              "price_desc": {
+                "price": {
+                  "origin": 4990,
+                  "integer": "49",
+                  "decimal": "9",
+                  "suffix": ""
+                },
+                "price_text": "到手价"
+              }
+            },
+            "shop_info": {
+              "shop_id": 245371980,
+              "shop_name": "小黄鸭柚柚芳优童鞋专卖店",
+              "shop_logo": {
+                "url_list": [
+                  "https://p6-ecom-qualification-sign.ecombdimg.com/tos-cn-i-6vegkygxbk/51e6ba20cbb3468999fae0c5480bd2df~tplv-6vegkygxbk-s:750.image?lk3s=c9156bde&x-expires=1812082989&x-signature=TgEMSvmuueNWqgmVxbRU7QE0TdU%3D"
+                ]
+              },
+              "shop_score_info": {
+                "has_data": true,
+                "shop_score": {
+                  "score": 92,
+                  "rating": "高",
+                  "percentage": 0,
+                  "rise_than_7d_ago": 0
+                }
+              }
+            },
+            "tag_info": {
+              "second_tags": [
+                {
+                  "type": "insurance_freight",
+                  "text": {
+                    "text": "运费险"
+                  },
+                  "border_color": "rgba(255, 112, 29, 0.34)",
+                  "tag_type": 1
+                }
+              ],
+              "tag_codes": [
+                "insurance_freight"
+              ]
+            },
+            "extend_info": {
+              "is_in_cart": true
+            }
+          },
+          "custom_model": {
+            "selection_square_model": {
+              "is_adv_approve": false,
+              "buyin_home_page_reason": {
+                "content": "单笔赚¥2.5"
+              },
+              "hit_ranking_list": false
+            }
+          }
+        },
+        "sale_data": {
+          "sale": "0-10",
+          "sale_amount": "40+",
+          "sale_types": [
+
+          ]
+        },
+        "video_data": {
+          "item_id": "",
+          "video_url": "",
+          "duration": 0,
+          "cover_url": "",
+          "publish_time": 0,
+          "video_name": ""
+        },
+        "live_data": {
+          "room_id": "",
+          "create_time": 0,
+          "room_text": ""
+        }
+      },
+      {
+        "product_data": {
+          "product_id": "3742119438644805652",
+          "promotion_id": "3745215596984402164",
+          "base_model": {
+            "product_info": {
+              "name": "女童鞋子儿童公主凉鞋2026新款夏款夏季女孩沙滩软底罗马大童凉拖",
+              "main_img": {
+                "uri": "ecom-shop-material/jpeg_m_fc629359c478595166b48439c0999188_sx_628538_www800-800",
+                "url_list": [
+                  "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_fc629359c478595166b48439c0999188_sx_628538_www800-800"
+                ]
+              }
+            },
+            "promotion_info": {
+              "cos_info": {
+                "cos": {
+                  "cos_fee": {
+                    "origin": 279,
+                    "integer": "2",
+                    "decimal": "79",
+                    "suffix": ""
+                  },
+                  "cos_ratio": {
+                    "origin": 7,
+                    "integer": "7",
+                    "decimal": "",
+                    "suffix": "%"
+                  }
+                },
+                "cos_type": 3,
+                "tiered_cos_info": {
+
+                }
+              }
+            },
+            "marketing_info": {
+              "price_desc": {
+                "price": {
+                  "origin": 3980,
+                  "integer": "39",
+                  "decimal": "8",
+                  "suffix": ""
+                },
+                "price_text": "到手价"
+              }
+            },
+            "shop_info": {
+              "shop_id": 102544093,
+              "shop_name": "蓝豹童鞋工厂店",
+              "shop_logo": {
+                "url_list": [
+                  "https://p6-ecom-qualification-sign.ecombdimg.com/tos-cn-i-6vegkygxbk/55bc8fb97cf44cbaa3298ad238b5f250~tplv-6vegkygxbk-s:750.image?lk3s=c9156bde&x-expires=1812083400&x-signature=WNeCOM%2B87yaJL2iYZyvxEJgzOL0%3D"
+                ]
+              },
+              "shop_score_info": {
+                "has_data": true,
+                "shop_score": {
+                  "score": 90,
+                  "rating": "高",
+                  "percentage": 0,
+                  "rise_than_7d_ago": 0
+                }
+              }
+            },
+            "tag_info": {
+              "second_tags": [
+                {
+                  "type": "insurance_freight",
+                  "text": {
+                    "text": "运费险"
+                  },
+                  "border_color": "rgba(255, 112, 29, 0.34)",
+                  "tag_type": 1
+                }
+              ],
+              "tag_codes": [
+                "insurance_freight"
+              ]
+            },
+            "extend_info": {
+              "is_in_cart": true
+            }
+          },
+          "custom_model": {
+            "selection_square_model": {
+              "is_adv_approve": false,
+              "buyin_home_page_reason": {
+                "content": "单笔赚¥2.8"
+              },
+              "hit_ranking_list": false
+            }
+          }
+        },
+        "sale_data": {
+          "sale": "0-10",
+          "sale_amount": "40+",
+          "sale_types": [
+
+          ]
+        },
+        "video_data": {
+          "item_id": "",
+          "video_url": "",
+          "duration": 0,
+          "cover_url": "",
+          "publish_time": 0,
+          "video_name": ""
+        },
+        "live_data": {
+          "room_id": "",
+          "create_time": 0,
+          "room_text": ""
+        }
+      },
+      {
+        "product_data": {
+          "product_id": "3751192207084880505",
+          "promotion_id": "3754100260755079637",
+          "base_model": {
+            "product_info": {
+              "name": "女童凉鞋2026夏季新款休闲童鞋儿童软底罗马公主鞋学生沙滩鞋子",
+              "main_img": {
+                "uri": "ecom-shop-material/jpeg_m_7c6544e611dea1a85aac37f1b5c8bed0_sx_276462_www1200-1200",
+                "url_list": [
+                  "https://p9-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_7c6544e611dea1a85aac37f1b5c8bed0_sx_276462_www1200-1200"
+                ]
+              }
+            },
+            "promotion_info": {
+              "cos_info": {
+                "cos": {
+                  "cos_fee": {
+                    "origin": 279,
+                    "integer": "2",
+                    "decimal": "79",
+                    "suffix": ""
+                  },
+                  "cos_ratio": {
+                    "origin": 7,
+                    "integer": "7",
+                    "decimal": "",
+                    "suffix": "%"
+                  }
+                },
+                "cos_type": 3,
+                "tiered_cos_info": {
+
+                }
+              }
+            },
+            "marketing_info": {
+              "price_desc": {
+                "price": {
+                  "origin": 3980,
+                  "integer": "39",
+                  "decimal": "8",
+                  "suffix": ""
+                },
+                "price_text": "到手价"
+              }
+            },
+            "shop_info": {
+              "shop_id": 136455248,
+              "shop_name": "乐天童鞋",
+              "shop_logo": {
+                "url_list": [
+                  "https://p6-ecom-qualification-sign.ecombdimg.com/tos-cn-i-6vegkygxbk/6443875e85f7497d87eee685a886f70f~tplv-6vegkygxbk-s:750.image?lk3s=c9156bde&x-expires=1812083379&x-signature=1m0keAtoPsN%2FugrFzo3SGghMIQA%3D"
+                ]
+              },
+              "shop_score_info": {
+                "has_data": true,
+                "shop_score": {
+                  "score": 87,
+                  "rating": "中",
+                  "percentage": 0,
+                  "rise_than_7d_ago": 0
+                }
+              }
+            },
+            "tag_info": {
+              "second_tags": [
+                {
+                  "type": "insurance_freight",
+                  "text": {
+                    "text": "运费险"
+                  },
+                  "border_color": "rgba(255, 112, 29, 0.34)",
+                  "tag_type": 1
+                }
+              ],
+              "tag_codes": [
+                "insurance_freight"
+              ]
+            },
+            "extend_info": {
+              "is_in_cart": true
+            }
+          },
+          "custom_model": {
+            "selection_square_model": {
+              "is_adv_approve": false,
+              "buyin_home_page_reason": {
+                "content": "单笔赚¥2.8"
+              },
+              "hit_ranking_list": false
+            }
+          }
+        },
+        "sale_data": {
+          "sale": "0-10",
+          "sale_amount": "40+",
+          "sale_types": [
+
+          ]
+        },
+        "video_data": {
+          "item_id": "",
+          "video_url": "",
+          "duration": 0,
+          "cover_url": "",
+          "publish_time": 0,
+          "video_name": ""
+        },
+        "live_data": {
+          "room_id": "",
+          "create_time": 0,
+          "room_text": ""
+        }
+      },
+      {
+        "product_data": {
+          "product_id": "3810375799945691241",
+          "promotion_id": "3810377505081262273",
+          "base_model": {
+            "product_info": {
+              "name": "阿童木儿童凉鞋女童2026夏季新款女孩公主软底运动鞋网面镂空单网",
+              "main_img": {
+                "uri": "ecom-shop-material/jpeg_m_ea991a41575f2544555bdccd3b349aa1_sx_500058_www800-800",
+                "url_list": [
+                  "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_ea991a41575f2544555bdccd3b349aa1_sx_500058_www800-800"
+                ]
+              }
+            },
+            "promotion_info": {
+              "cos_info": {
+                "cos": {
+                  "cos_fee": {
+                    "origin": 330,
+                    "integer": "3",
+                    "decimal": "3",
+                    "suffix": ""
+                  },
+                  "cos_ratio": {
+                    "origin": 6,
+                    "integer": "6",
+                    "decimal": "",
+                    "suffix": "%"
+                  }
+                },
+                "cos_type": 3,
+                "tiered_cos_info": {
+
+                }
+              }
+            },
+            "marketing_info": {
+              "price_desc": {
+                "price": {
+                  "origin": 5500,
+                  "integer": "55",
+                  "decimal": "",
+                  "suffix": ""
+                },
+                "price_text": "到手价"
+              }
+            },
+            "shop_info": {
+              "shop_id": 198976466,
+              "shop_name": "阿童木鞋靴旗舰店",
+              "shop_logo": {
+                "url_list": [
+                  "https://p6-ecom-qualification-sign.ecombdimg.com/tos-cn-i-6vegkygxbk/035f2b69734c4bdc8637e95ad5bd6a07~tplv-6vegkygxbk-s:750.image?lk3s=c9156bde&x-expires=1812082479&x-signature=dE%2FrGL3xLtk3hAxyLOK0QxpkQAA%3D"
+                ]
+              },
+              "shop_score_info": {
+                "has_data": true,
+                "shop_score": {
+                  "score": 83,
+                  "rating": "中",
+                  "percentage": 0,
+                  "rise_than_7d_ago": 0
+                }
+              }
+            },
+            "tag_info": {
+              "second_tags": [
+                {
+                  "type": "insurance_freight",
+                  "text": {
+                    "text": "运费险"
+                  },
+                  "border_color": "rgba(255, 112, 29, 0.34)",
+                  "tag_type": 1
+                }
+              ],
+              "tag_codes": [
+                "insurance_freight"
+              ]
+            },
+            "extend_info": {
+              "is_in_cart": false
+            }
+          },
+          "custom_model": {
+            "selection_square_model": {
+              "is_adv_approve": false,
+              "buyin_home_page_reason": {
+                "content": "单笔赚¥3.3"
+              },
+              "hit_ranking_list": false
+            }
+          }
+        },
+        "sale_data": {
+          "sale": "0-10",
+          "sale_amount": "60+",
+          "sale_types": [
+
+          ]
+        },
+        "video_data": {
+          "item_id": "",
+          "video_url": "",
+          "duration": 0,
+          "cover_url": "",
+          "publish_time": 0,
+          "video_name": ""
+        },
+        "live_data": {
+          "room_id": "",
+          "create_time": 0,
+          "room_text": ""
+        }
+      },
+      {
+        "product_data": {
+          "product_id": "3810134768461414564",
+          "promotion_id": "3810139497111355392",
+          "base_model": {
+            "product_info": {
+              "name": "小黄鸭女宝宝镂空凉鞋2026夏季透气公主软底蝴蝶结女童网面单鞋子",
+              "main_img": {
+                "uri": "ecom-shop-material/jpeg_m_7ba1cf6adab61222b9c633005f7a4e92_sx_418913_www750-750",
+                "url_list": [
+                  "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_7ba1cf6adab61222b9c633005f7a4e92_sx_418913_www750-750"
+                ]
+              }
+            },
+            "promotion_info": {
+              "cos_info": {
+                "cos": {
+                  "cos_fee": {
+                    "origin": 395,
+                    "integer": "3",
+                    "decimal": "95",
+                    "suffix": ""
+                  },
+                  "cos_ratio": {
+                    "origin": 11,
+                    "integer": "11",
+                    "decimal": "",
+                    "suffix": "%"
+                  }
+                },
+                "cos_type": 3,
+                "tiered_cos_info": {
+
+                }
+              }
+            },
+            "marketing_info": {
+              "price_desc": {
+                "price": {
+                  "origin": 3590,
+                  "integer": "35",
+                  "decimal": "9",
+                  "suffix": ""
+                },
+                "regular_price": {
+                  "origin": 4800,
+                  "integer": "48",
+                  "decimal": "",
+                  "suffix": ""
+                },
+                "price_text": "到手价"
+              }
+            },
+            "shop_info": {
+              "shop_id": 227142341,
+              "shop_name": "贝比乐童鞋社",
+              "shop_logo": {
+                "url_list": [
+                  "https://p3-ecom-qualification-sign.ecombdimg.com/tos-cn-i-6vegkygxbk/55ea03d4810b490d94e53fa5a952f6be~tplv-6vegkygxbk-s:750.image?lk3s=c9156bde&x-expires=1812080294&x-signature=7P8MxWB%2F%2Fl1jVPMQSNzMhlRT4z8%3D"
+                ]
+              },
+              "shop_score_info": {
+                "has_data": true,
+                "shop_score": {
+                  "score": 90,
+                  "rating": "高",
+                  "percentage": 0,
+                  "rise_than_7d_ago": 0
+                }
+              }
+            },
+            "tag_info": {
+              "second_tags": [
+                {
+                  "type": "insurance_freight",
+                  "text": {
+                    "text": "运费险"
+                  },
+                  "border_color": "rgba(255, 112, 29, 0.34)",
+                  "tag_type": 1
+                },
+                {
+                  "type": "FreightFree",
+                  "text": {
+                    "text": "包邮"
+                  },
+                  "border_color": "rgba(255, 112, 29, 0.34)",
+                  "tag_type": 1
+                }
+              ],
+              "tag_codes": [
+                "insurance_freight",
+                "FreightFree"
+              ]
+            },
+            "extend_info": {
+              "is_in_cart": true
+            }
+          },
+          "custom_model": {
+            "selection_square_model": {
+              "is_adv_approve": false,
+              "buyin_home_page_reason": {
+                "content": "单笔赚¥4"
+              },
+              "hit_ranking_list": false
+            }
+          }
+        },
+        "sale_data": {
+          "sale": "0-10",
+          "sale_amount": "40+",
+          "sale_types": [
+
+          ]
+        },
+        "video_data": {
+          "item_id": "",
+          "video_url": "",
+          "duration": 0,
+          "cover_url": "",
+          "publish_time": 0,
+          "video_name": ""
+        },
+        "live_data": {
+          "room_id": "",
+          "create_time": 0,
+          "room_text": ""
+        }
+      },
+      {
+        "product_data": {
+          "product_id": "3818573969003512182",
+          "promotion_id": "3818577104379969839",
+          "base_model": {
+            "product_info": {
+              "name": "阿童木儿童爆款女童鞋凉鞋夏季2026百搭潮款宝宝软底运动女童凉鞋",
+              "main_img": {
+                "uri": "ecom-shop-material/wkuWqAZY_m_583237b48ecf86a31855683929b6a96a_sx_267122_www800-800",
+                "url_list": [
+                  "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/wkuWqAZY_m_583237b48ecf86a31855683929b6a96a_sx_267122_www800-800"
+                ]
+              }
+            },
+            "promotion_info": {
+              "cos_info": {
+                "cos": {
+                  "cos_fee": {
+                    "origin": 399,
+                    "integer": "3",
+                    "decimal": "99",
+                    "suffix": ""
+                  },
+                  "cos_ratio": {
+                    "origin": 10,
+                    "integer": "10",
+                    "decimal": "",
+                    "suffix": "%"
+                  }
+                },
+                "cos_type": 3,
+                "tiered_cos_info": {
+
+                }
+              }
+            },
+            "marketing_info": {
+              "price_desc": {
+                "price": {
+                  "origin": 3990,
+                  "integer": "39",
+                  "decimal": "9",
+                  "suffix": ""
+                },
+                "price_text": "到手价"
+              }
+            },
+            "shop_info": {
+              "shop_id": 114203522,
+              "shop_name": "阿童木瑞尚童鞋店",
+              "shop_logo": {
+                "url_list": [
+                  "https://p3-ecom-qualification-sign.ecombdimg.com/tos-cn-i-6vegkygxbk/b2cf9804d94e4a79ad66ebaad1346435~tplv-6vegkygxbk-s:750.image?lk3s=c9156bde&x-expires=1812082661&x-signature=W%2F75Flj0SS5gINwNDe5bMo1f%2Fco%3D"
+                ]
+              },
+              "shop_score_info": {
+                "has_data": true,
+                "shop_score": {
+                  "score": 80,
+                  "rating": "中",
+                  "percentage": 0,
+                  "rise_than_7d_ago": 0
+                }
+              }
+            },
+            "tag_info": {
+              "second_tags": [
+                {
+                  "type": "SalesInfos",
+                  "text": {
+                    "text": "券",
+                    "color": "#FF3B52"
+                  },
+                  "text_right": {
+                    "text": "减20",
+                    "color": "#FF3B52"
+                  },
+                  "border_color": "rgba(255, 51, 68, 0.25)",
+                  "tag_type": 2
+                },
+                {
+                  "type": "insurance_freight",
+                  "text": {
+                    "text": "运费险"
+                  },
+                  "border_color": "rgba(255, 112, 29, 0.34)",
+                  "tag_type": 1
+                }
+              ],
+              "tag_codes": [
+                "insurance_freight",
+                "SalesInfos"
+              ]
+            },
+            "extend_info": {
+              "is_in_cart": true
+            }
+          },
+          "custom_model": {
+            "selection_square_model": {
+              "is_adv_approve": false,
+              "buyin_home_page_reason": {
+                "content": "单笔赚¥4"
+              },
+              "hit_ranking_list": false
+            }
+          }
+        },
+        "sale_data": {
+          "sale": "0-10",
+          "sale_amount": "30+",
+          "sale_types": [
+
+          ]
+        },
+        "video_data": {
+          "item_id": "",
+          "video_url": "",
+          "duration": 0,
+          "cover_url": "",
+          "publish_time": 0,
+          "video_name": ""
+        },
+        "live_data": {
+          "room_id": "",
+          "create_time": 0,
+          "room_text": ""
+        }
+      },
+      {
+        "product_data": {
+          "product_id": "3746780197769314585",
+          "promotion_id": "3756710954562355580",
+          "base_model": {
+            "product_info": {
+              "name": "ABC女童鞋凉鞋2025夏季新款儿童软底洋气百搭公主鞋宝宝蝴蝶结鞋",
+              "main_img": {
+                "uri": "ecom-shop-material/jpeg_m_287a67d915730a4ae891a8eb25c1732f_sx_348659_www800-800",
+                "url_list": [
+                  "https://p9-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_287a67d915730a4ae891a8eb25c1732f_sx_348659_www800-800"
+                ]
+              }
+            },
+            "promotion_info": {
+              "cos_info": {
+                "cos": {
+                  "cos_fee": {
+                    "origin": 356,
+                    "integer": "3",
+                    "decimal": "56",
+                    "suffix": ""
+                  },
+                  "cos_ratio": {
+                    "origin": 8,
+                    "integer": "8",
+                    "decimal": "",
+                    "suffix": "%"
+                  }
+                },
+                "cos_ratio_text": "双佣金",
+                "cos_type": 3,
+                "tiered_cos_info": {
+
+                },
+                "ad_cos": {
+                  "cos_fee": {
+                    "origin": 267,
+                    "integer": "2",
+                    "decimal": "67",
+                    "suffix": ""
+                  },
+                  "cos_ratio": {
+                    "origin": 6,
+                    "integer": "6",
+                    "decimal": "",
+                    "suffix": "%"
+                  }
+                },
+                "ad_cos_effective_time": 48,
+                "ad_cos_recommend_effective_time": 48
+              }
+            },
+            "marketing_info": {
+              "price_desc": {
+                "price": {
+                  "origin": 4450,
+                  "integer": "44",
+                  "decimal": "5",
+                  "suffix": ""
+                },
+                "regular_price": {
+                  "origin": 10428,
+                  "integer": "104",
+                  "decimal": "28",
+                  "suffix": ""
+                },
+                "price_text": "到手价"
+              }
+            },
+            "shop_info": {
+              "shop_id": 139276847,
+              "shop_name": "ABC潮流童鞋铺",
+              "shop_logo": {
+                "url_list": [
+                  "https://p3-ecom-qualification-sign.ecombdimg.com/tos-cn-i-6vegkygxbk/aff7afac28ff4816bab04d9a005f2820~tplv-6vegkygxbk-s:750.image?lk3s=c9156bde&x-expires=1812081463&x-signature=Uy1pc%2Bf5W2hgwePvW0k3KXKGFoc%3D"
+                ]
+              },
+              "shop_score_info": {
+                "has_data": true,
+                "shop_score": {
+                  "score": 98,
+                  "rating": "高",
+                  "percentage": 0,
+                  "rise_than_7d_ago": 0
+                }
+              }
+            },
+            "tag_info": {
+              "second_tags": [
+                {
+                  "type": "ad_double_cos",
+                  "text": {
+                    "text": "商家投千川"
+                  },
+                  "border_color": "rgba(255, 112, 29, 0.34)",
+                  "tag_type": 1
+                },
+                {
+                  "type": "SalesInfos",
+                  "text": {
+                    "text": "券",
+                    "color": "#FF3B52"
+                  },
+                  "text_right": {
+                    "text": "5折",
+                    "color": "#FF3B52"
+                  },
+                  "border_color": "rgba(255, 51, 68, 0.25)",
+                  "tag_type": 2
+                },
+                {
+                  "type": "insurance_freight",
+                  "text": {
+                    "text": "运费险"
+                  },
+                  "border_color": "rgba(255, 112, 29, 0.34)",
+                  "tag_type": 1
+                }
+              ],
+              "tag_codes": [
+                "insurance_freight",
+                "SalesInfos",
+                "ad_double_cos"
+              ]
+            },
+            "extend_info": {
+              "is_in_cart": true
+            }
+          },
+          "custom_model": {
+            "selection_square_model": {
+              "is_adv_approve": false,
+              "buyin_home_page_reason": {
+                "content": "单笔赚¥3.6"
+              },
+              "hit_ranking_list": false
+            }
+          }
+        },
+        "sale_data": {
+          "sale": "0-10",
+          "sale_amount": "40+",
+          "sale_types": [
+
+          ]
+        },
+        "video_data": {
+          "item_id": "",
+          "video_url": "",
+          "duration": 0,
+          "cover_url": "",
+          "publish_time": 0,
+          "video_name": ""
+        },
+        "live_data": {
+          "room_id": "",
+          "create_time": 0,
+          "room_text": ""
+        }
+      },
+      {
+        "product_data": {
+          "product_id": "3809103222585557185",
+          "promotion_id": "3810172740334387669",
+          "base_model": {
+            "product_info": {
+              "name": "女童凉鞋夏款时尚水钻公主鞋软底防滑中大童沙滩鞋露趾小女孩两穿",
+              "main_img": {
+                "uri": "ecom-shop-material/jpeg_m_9aa3e232a3d4d34e236b1198fde1e88d_sx_146146_www800-800",
+                "url_list": [
+                  "https://p9-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_9aa3e232a3d4d34e236b1198fde1e88d_sx_146146_www800-800"
+                ]
+              }
+            },
+            "promotion_info": {
+              "cos_info": {
+                "cos": {
+                  "cos_fee": {
+                    "origin": 200,
+                    "integer": "2",
+                    "decimal": "",
+                    "suffix": ""
+                  },
+                  "cos_ratio": {
+                    "origin": 5,
+                    "integer": "5",
+                    "decimal": "",
+                    "suffix": "%"
+                  }
+                },
+                "cos_ratio_text": "双佣金",
+                "cos_type": 3,
+                "tiered_cos_info": {
+
+                },
+                "ad_cos": {
+                  "cos_fee": {
+                    "origin": 200,
+                    "integer": "2",
+                    "decimal": "",
+                    "suffix": ""
+                  },
+                  "cos_ratio": {
+                    "origin": 5,
+                    "integer": "5",
+                    "decimal": "",
+                    "suffix": "%"
+                  }
+                },
+                "ad_cos_effective_time": 48,
+                "ad_cos_recommend_effective_time": 48
+              }
+            },
+            "marketing_info": {
+              "price_desc": {
+                "price": {
+                  "origin": 3990,
+                  "integer": "39",
+                  "decimal": "9",
+                  "suffix": ""
+                },
+                "price_text": "到手价"
+              }
+            },
+            "shop_info": {
+              "shop_id": 126457180,
+              "shop_name": "礼承童鞋",
+              "shop_logo": {
+                "url_list": [
+                  "https://p3-ecom-qualification-sign.ecombdimg.com/tos-cn-i-6vegkygxbk/bf771f4130ae4c94b1993153770d6fe9~tplv-6vegkygxbk-s:750.image?lk3s=c9156bde&x-expires=1812081030&x-signature=Fuf1EYsk91o8xkaPxl0yGEHaxG8%3D"
+                ]
+              },
+              "shop_score_info": {
+                "has_data": true,
+                "shop_score": {
+                  "score": 90,
+                  "rating": "高",
+                  "percentage": 0,
+                  "rise_than_7d_ago": 0
+                }
+              }
+            },
+            "tag_info": {
+              "second_tags": [
+                {
+                  "type": "ad_double_cos",
+                  "text": {
+                    "text": "商家投千川"
+                  },
+                  "border_color": "rgba(255, 112, 29, 0.34)",
+                  "tag_type": 1
+                },
+                {
+                  "type": "SalesInfos",
+                  "text": {
+                    "text": "券",
+                    "color": "#FF3B52"
+                  },
+                  "text_right": {
+                    "text": "减10",
+                    "color": "#FF3B52"
+                  },
+                  "border_color": "rgba(255, 51, 68, 0.25)",
+                  "tag_type": 2
+                },
+                {
+                  "type": "insurance_freight",
+                  "text": {
+                    "text": "运费险"
+                  },
+                  "border_color": "rgba(255, 112, 29, 0.34)",
+                  "tag_type": 1
+                },
+                {
+                  "type": "FreightFree",
+                  "text": {
+                    "text": "包邮"
+                  },
+                  "border_color": "rgba(255, 112, 29, 0.34)",
+                  "tag_type": 1
+                }
+              ],
+              "tag_codes": [
+                "insurance_freight",
+                "FreightFree",
+                "SalesInfos",
+                "ad_double_cos"
+              ]
+            },
+            "extend_info": {
+              "is_in_cart": false
+            }
+          },
+          "custom_model": {
+            "selection_square_model": {
+              "is_adv_approve": false,
+              "buyin_home_page_reason": {
+                "content": "单笔赚¥2"
+              },
+              "hit_ranking_list": false
+            }
+          }
+        },
+        "sale_data": {
+          "sale": "0-10",
+          "sale_amount": "30+",
+          "sale_types": [
+
+          ]
+        },
+        "video_data": {
+          "item_id": "",
+          "video_url": "",
+          "duration": 0,
+          "cover_url": "",
+          "publish_time": 0,
+          "video_name": ""
+        },
+        "live_data": {
+          "room_id": "",
+          "create_time": 0,
+          "room_text": ""
+        }
+      },
+      {
+        "product_data": {
+          "product_id": "3770150693151834206",
+          "promotion_id": "3770150927084945452",
+          "base_model": {
+            "product_info": {
+              "name": "英伦风鞋子儿童公主鞋2025新款白色单鞋大童玛丽珍软底皮鞋",
+              "main_img": {
+                "uri": "ecom-shop-material/jpeg_m_8b01c23cbf64a0d8e001cc23e9a35edb_sx_403179_www2000-2000",
+                "url_list": [
+                  "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_8b01c23cbf64a0d8e001cc23e9a35edb_sx_403179_www2000-2000"
+                ]
+              }
+            },
+            "promotion_info": {
+              "cos_info": {
+                "cos": {
+                  "cos_fee": {
+                    "origin": 588,
+                    "integer": "5",
+                    "decimal": "88",
+                    "suffix": ""
+                  },
+                  "cos_ratio": {
+                    "origin": 10,
+                    "integer": "10",
+                    "decimal": "",
+                    "suffix": "%"
+                  }
+                },
+                "cos_type": 3,
+                "tiered_cos_info": {
+
+                }
+              }
+            },
+            "marketing_info": {
+              "price_desc": {
+                "price": {
+                  "origin": 5880,
+                  "integer": "58",
+                  "decimal": "8",
+                  "suffix": ""
+                },
+                "price_text": "到手价"
+              }
+            },
+            "shop_info": {
+              "shop_id": 166337105,
+              "shop_name": "ABC童鞋工厂",
+              "shop_logo": {
+                "url_list": [
+                  "https://p6-ecom-qualification-sign.ecombdimg.com/tos-cn-i-6vegkygxbk/de91975eac4d4ae5a3fe204418f8ec88~tplv-6vegkygxbk-s:750.image?lk3s=c9156bde&x-expires=1812080990&x-signature=gWL4lBZaI0Xqq2gwoc9c0%2Bfypzw%3D"
+                ]
+              },
+              "shop_score_info": {
+                "has_data": true,
+                "shop_score": {
+                  "score": 92,
+                  "rating": "高",
+                  "percentage": 0,
+                  "rise_than_7d_ago": 0
+                }
+              }
+            },
+            "tag_info": {
+              "second_tags": [
+                {
+                  "type": "insurance_freight",
+                  "text": {
+                    "text": "运费险"
+                  },
+                  "border_color": "rgba(255, 112, 29, 0.34)",
+                  "tag_type": 1
+                }
+              ],
+              "tag_codes": [
+                "insurance_freight"
+              ]
+            },
+            "extend_info": {
+              "is_in_cart": true
+            }
+          },
+          "custom_model": {
+            "selection_square_model": {
+              "is_adv_approve": false,
+              "buyin_home_page_reason": {
+                "content": "单笔赚¥5.9"
+              },
+              "hit_ranking_list": false
+            }
+          }
+        },
+        "sale_data": {
+          "sale": "0-10",
+          "sale_amount": "60+",
+          "sale_types": [
+
+          ]
+        },
+        "video_data": {
+          "item_id": "",
+          "video_url": "",
+          "duration": 0,
+          "cover_url": "",
+          "publish_time": 0,
+          "video_name": ""
+        },
+        "live_data": {
+          "room_id": "",
+          "create_time": 0,
+          "room_text": ""
+        }
+      },
+      {
+        "product_data": {
+          "product_id": "3746894166756557049",
+          "promotion_id": "3790694172449702194",
+          "base_model": {
+            "product_info": {
+              "name": "阿童木女童凉鞋2026新款夏季儿童时尚公主凉拖女孩防滑沙滩鞋大童",
+              "main_img": {
+                "uri": "ecom-shop-material/png_m_0d5fdc42711ef3b3bf907295a0f2be27_sx_1399959_www800-800",
+                "url_list": [
+                  "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/png_m_0d5fdc42711ef3b3bf907295a0f2be27_sx_1399959_www800-800"
+                ]
+              }
+            },
+            "promotion_info": {
+              "cos_info": {
+                "cos": {
+                  "cos_fee": {
+                    "origin": 349,
+                    "integer": "3",
+                    "decimal": "49",
+                    "suffix": ""
+                  },
+                  "cos_ratio": {
+                    "origin": 7,
+                    "integer": "7",
+                    "decimal": "",
+                    "suffix": "%"
+                  }
+                },
+                "cos_type": 3,
+                "tiered_cos_info": {
+
+                }
+              }
+            },
+            "marketing_info": {
+              "price_desc": {
+                "price": {
+                  "origin": 4990,
+                  "integer": "49",
+                  "decimal": "9",
+                  "suffix": ""
+                },
+                "price_text": "到手价"
+              }
+            },
+            "shop_info": {
+              "shop_id": 195454294,
+              "shop_name": "阿童木运动旗舰店",
+              "shop_logo": {
+                "url_list": [
+                  "https://p6-ecom-qualification-sign.ecombdimg.com/tos-cn-i-6vegkygxbk/50bba90286814667b9f1f5f8fed63dff~tplv-6vegkygxbk-s:750.image?lk3s=c9156bde&x-expires=1812081014&x-signature=exRmtO%2FkYo%2F5zceuOkj3RRfpplI%3D"
+                ]
+              },
+              "shop_score_info": {
+                "has_data": true,
+                "shop_score": {
+                  "score": 85,
+                  "rating": "中",
+                  "percentage": 0,
+                  "rise_than_7d_ago": 0
+                }
+              }
+            },
+            "tag_info": {
+              "second_tags": [
+                {
+                  "type": "insurance_freight",
+                  "text": {
+                    "text": "运费险"
+                  },
+                  "border_color": "rgba(255, 112, 29, 0.34)",
+                  "tag_type": 1
+                }
+              ],
+              "tag_codes": [
+                "insurance_freight"
+              ]
+            },
+            "extend_info": {
+              "is_in_cart": false
+            }
+          },
+          "custom_model": {
+            "selection_square_model": {
+              "is_adv_approve": false,
+              "buyin_home_page_reason": {
+                "content": "单笔赚¥3.5"
+              },
+              "hit_ranking_list": false
+            }
+          }
+        },
+        "sale_data": {
+          "sale": "0-10",
+          "sale_amount": "40+",
+          "sale_types": [
+
+          ]
+        },
+        "video_data": {
+          "item_id": "",
+          "video_url": "",
+          "duration": 0,
+          "cover_url": "",
+          "publish_time": 0,
+          "video_name": ""
+        },
+        "live_data": {
+          "room_id": "",
+          "create_time": 0,
+          "room_text": ""
+        }
+      },
+      {
+        "product_data": {
+          "product_id": "3747456465946935372",
+          "promotion_id": "3747458177566900655",
+          "base_model": {
+            "product_info": {
+              "name": "儿童凉鞋2026夏季新款公主鞋软底沙滩凉拖中大童儿童防滑凉鞋女童",
+              "main_img": {
+                "uri": "ecom-shop-material/jpeg_m_5e632bc9b1d81b786e5edd0b591da6b0_sx_251973_www1200-1200",
+                "url_list": [
+                  "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_5e632bc9b1d81b786e5edd0b591da6b0_sx_251973_www1200-1200"
+                ]
+              }
+            },
+            "promotion_info": {
+              "cos_info": {
+                "cos": {
+                  "cos_fee": {
+                    "origin": 399,
+                    "integer": "3",
+                    "decimal": "99",
+                    "suffix": ""
+                  },
+                  "cos_ratio": {
+                    "origin": 10,
+                    "integer": "10",
+                    "decimal": "",
+                    "suffix": "%"
+                  }
+                },
+                "cos_type": 3,
+                "tiered_cos_info": {
+
+                }
+              }
+            },
+            "marketing_info": {
+              "price_desc": {
+                "price": {
+                  "origin": 3990,
+                  "integer": "39",
+                  "decimal": "9",
+                  "suffix": ""
+                },
+                "price_text": "到手价"
+              }
+            },
+            "shop_info": {
+              "shop_id": 194438140,
+              "shop_name": "巴歌熊晏曾童鞋专卖店",
+              "shop_logo": {
+                "url_list": [
+                  "https://p6-ecom-qualification-sign.ecombdimg.com/tos-cn-i-6vegkygxbk/38a8eb645f324092b889362b3eb089ad~tplv-6vegkygxbk-s:750.image?lk3s=c9156bde&x-expires=1812082166&x-signature=zqrqC%2FfDJfy0TYPa0yA5vUl1amM%3D"
+                ]
+              },
+              "shop_score_info": {
+                "has_data": true,
+                "shop_score": {
+                  "score": 93,
+                  "rating": "高",
+                  "percentage": 0,
+                  "rise_than_7d_ago": 0
+                }
+              }
+            },
+            "tag_info": {
+              "second_tags": [
+                {
+                  "type": "LowPrice",
+                  "text": {
+                    "text": "低价好卖",
+                    "color": "rgba(255,106,0,1)"
+                  },
+                  "border_color": "rgba(255,106,0,0.3)",
+                  "tag_type": 1
+                },
+                {
+                  "type": "insurance_freight",
+                  "text": {
+                    "text": "运费险"
+                  },
+                  "border_color": "rgba(255, 112, 29, 0.34)",
+                  "tag_type": 1
+                }
+              ],
+              "tag_codes": [
+                "insurance_freight",
+                "LowPrice"
+              ]
+            },
+            "extend_info": {
+              "is_in_cart": false
+            }
+          },
+          "custom_model": {
+            "selection_square_model": {
+              "is_adv_approve": false,
+              "buyin_home_page_reason": {
+                "content": "单笔赚¥4"
+              },
+              "hit_ranking_list": false
+            }
+          }
+        },
+        "sale_data": {
+          "sale": "0-10",
+          "sale_amount": "40+",
+          "sale_types": [
+
+          ]
+        },
+        "video_data": {
+          "item_id": "",
+          "video_url": "",
+          "duration": 0,
+          "cover_url": "",
+          "publish_time": 0,
+          "video_name": ""
+        },
+        "live_data": {
+          "room_id": "",
+          "create_time": 0,
+          "room_text": ""
+        }
+      },
+      {
+        "product_data": {
+          "product_id": "3752295161028280737",
+          "promotion_id": "3753555525623743026",
+          "base_model": {
+            "product_info": {
+              "name": "玉桂狗女童洞洞鞋儿童拖鞋2026新款中大童室内防滑软底女孩沙滩鞋",
+              "main_img": {
+                "uri": "ecom-shop-material/jpeg_m_29f5391b06d9e55300ca25a83e4e5b4a_sx_118118_www1200-1200",
+                "url_list": [
+                  "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_29f5391b06d9e55300ca25a83e4e5b4a_sx_118118_www1200-1200"
+                ]
+              }
+            },
+            "promotion_info": {
+              "cos_info": {
+                "cos": {
+                  "cos_fee": {
+                    "origin": 112,
+                    "integer": "1",
+                    "decimal": "12",
+                    "suffix": ""
+                  },
+                  "cos_ratio": {
+                    "origin": 5,
+                    "integer": "5",
+                    "decimal": "",
+                    "suffix": "%"
+                  }
+                },
+                "cos_type": 3,
+                "tiered_cos_info": {
+
+                }
+              }
+            },
+            "marketing_info": {
+              "price_desc": {
+                "price": {
+                  "origin": 2233,
+                  "integer": "22",
+                  "decimal": "33",
+                  "suffix": ""
+                },
+                "regular_price": {
+                  "origin": 2980,
+                  "integer": "29",
+                  "decimal": "8",
+                  "suffix": ""
+                },
+                "price_text": "到手价"
+              }
+            },
+            "shop_info": {
+              "shop_id": 88044457,
+              "shop_name": "Helolis童鞋旗舰店",
+              "shop_logo": {
+                "url_list": [
+                  "https://p6-ecom-qualification-sign.ecombdimg.com/tos-cn-i-6vegkygxbk/f61bcd587af24f949879db30b98e2f45~tplv-6vegkygxbk-s:750.image?lk3s=c9156bde&x-expires=1812082276&x-signature=746ThEWC0HnbeI1x9xhKFDSuJaY%3D"
+                ]
+              },
+              "shop_score_info": {
+                "has_data": true,
+                "shop_score": {
+                  "score": 88,
+                  "rating": "中",
+                  "percentage": 0,
+                  "rise_than_7d_ago": 0
+                }
+              }
+            },
+            "tag_info": {
+              "second_tags": [
+                {
+                  "type": "SalesInfos",
+                  "text": {
+                    "text": "券",
+                    "color": "#FF3B52"
+                  },
+                  "text_right": {
+                    "text": "减3",
+                    "color": "#FF3B52"
+                  },
+                  "border_color": "rgba(255, 51, 68, 0.25)",
+                  "tag_type": 2
+                },
+                {
+                  "type": "insurance_freight",
+                  "text": {
+                    "text": "运费险"
+                  },
+                  "border_color": "rgba(255, 112, 29, 0.34)",
+                  "tag_type": 1
+                }
+              ],
+              "tag_codes": [
+                "insurance_freight",
+                "SalesInfos"
+              ]
+            },
+            "extend_info": {
+              "is_in_cart": true
+            }
+          },
+          "custom_model": {
+            "selection_square_model": {
+              "is_adv_approve": false,
+              "buyin_home_page_reason": {
+                "content": "单笔赚¥1.1"
+              },
+              "hit_ranking_list": false
+            }
+          }
+        },
+        "sale_data": {
+          "sale": "0-10",
+          "sale_amount": "20+",
+          "sale_types": [
+
+          ]
+        },
+        "video_data": {
+          "item_id": "",
+          "video_url": "",
+          "duration": 0,
+          "cover_url": "",
+          "publish_time": 0,
+          "video_name": ""
+        },
+        "live_data": {
+          "room_id": "",
+          "create_time": 0,
+          "room_text": ""
+        }
+      }
+    ],
+    "has_more": true
+  },
+  "log_id": "2026060412321384A2C9E2F59BD50D6669",
+  "msg": "",
+  "st": 0
+}
